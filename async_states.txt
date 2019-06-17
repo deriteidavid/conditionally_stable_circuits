@@ -1,0 +1,4096 @@
+*** transitions from 70 ***
+T=0: 70->71
+*** transitions from 70 ***
+T=0: 70->13
+*** transitions from 70 ***
+T=0: 70->70
+*** transitions from 70 ***
+T=0: 70->70
+*** transitions from 70 ***
+T=0: 70->70
+*** transitions from 70 ***
+T=0: 70->70
+*** transitions from 70 ***
+T=0: 70->72
+*** transitions from 70 ***
+T=0: 70->4
+*** transitions from 4 ***
+T=0: 4->4
+*** transitions from 4 ***
+T=0: 4->5
+*** transitions from 4 ***
+T=0: 4->4
+*** transitions from 4 ***
+T=0: 4->4
+*** transitions from 4 ***
+T=0: 4->4
+*** transitions from 4 ***
+T=0: 4->4
+*** transitions from 4 ***
+T=0: 4->4
+*** transitions from 4 ***
+T=0: 4->4
+*** transitions from 72 ***
+T=0: 72->73
+*** transitions from 72 ***
+T=0: 72->44
+*** transitions from 72 ***
+T=0: 72->72
+*** transitions from 72 ***
+T=0: 72->72
+*** transitions from 72 ***
+T=0: 72->72
+*** transitions from 72 ***
+T=0: 72->72
+*** transitions from 72 ***
+T=0: 72->72
+*** transitions from 72 ***
+T=0: 72->3
+*** transitions from 3 ***
+T=0: 3->3
+*** transitions from 3 ***
+T=0: 3->3
+*** transitions from 3 ***
+T=0: 3->3
+*** transitions from 3 ***
+T=0: 3->3
+*** transitions from 3 ***
+T=0: 3->3
+*** transitions from 3 ***
+T=0: 3->3
+*** transitions from 3 ***
+T=0: 3->4
+*** transitions from 3 ***
+T=0: 3->3
+*** transitions from 74 ***
+T=0: 74->75
+*** transitions from 74 ***
+T=0: 74->76
+*** transitions from 74 ***
+T=0: 74->74
+*** transitions from 74 ***
+T=0: 74->74
+*** transitions from 74 ***
+T=0: 74->74
+*** transitions from 74 ***
+T=0: 74->70
+*** transitions from 74 ***
+T=0: 74->77
+*** transitions from 74 ***
+T=0: 74->78
+*** transitions from 78 ***
+T=0: 78->78
+*** transitions from 78 ***
+T=0: 78->79
+*** transitions from 78 ***
+T=0: 78->78
+*** transitions from 78 ***
+T=0: 78->78
+*** transitions from 78 ***
+T=0: 78->78
+*** transitions from 78 ***
+T=0: 78->4
+*** transitions from 78 ***
+T=0: 78->78
+*** transitions from 78 ***
+T=0: 78->78
+*** transitions from 77 ***
+T=0: 77->80
+*** transitions from 77 ***
+T=0: 77->81
+*** transitions from 77 ***
+T=0: 77->77
+*** transitions from 77 ***
+T=0: 77->77
+*** transitions from 77 ***
+T=0: 77->77
+*** transitions from 77 ***
+T=0: 77->72
+*** transitions from 77 ***
+T=0: 77->77
+*** transitions from 77 ***
+T=0: 77->82
+*** transitions from 82 ***
+T=0: 82->82
+*** transitions from 82 ***
+T=0: 82->82
+*** transitions from 82 ***
+T=0: 82->82
+*** transitions from 82 ***
+T=0: 82->82
+*** transitions from 82 ***
+T=0: 82->82
+*** transitions from 82 ***
+T=0: 82->3
+*** transitions from 82 ***
+T=0: 82->82
+*** transitions from 82 ***
+T=0: 82->82
+*** transitions from 83 ***
+T=0: 83->84
+*** transitions from 83 ***
+T=0: 83->83
+*** transitions from 83 ***
+T=0: 83->83
+*** transitions from 83 ***
+T=0: 83->83
+*** transitions from 83 ***
+T=0: 83->70
+*** transitions from 83 ***
+T=0: 83->59
+*** transitions from 83 ***
+T=0: 83->85
+*** transitions from 83 ***
+T=0: 83->27
+*** transitions from 27 ***
+T=0: 27->27
+*** transitions from 27 ***
+T=0: 27->27
+*** transitions from 27 ***
+T=0: 27->27
+*** transitions from 27 ***
+T=0: 27->27
+*** transitions from 27 ***
+T=0: 27->4
+*** transitions from 27 ***
+T=0: 27->27
+*** transitions from 27 ***
+T=0: 27->27
+*** transitions from 27 ***
+T=0: 27->27
+*** transitions from 85 ***
+T=0: 85->67
+*** transitions from 85 ***
+T=0: 85->85
+*** transitions from 85 ***
+T=0: 85->85
+*** transitions from 85 ***
+T=0: 85->85
+*** transitions from 85 ***
+T=0: 85->72
+*** transitions from 85 ***
+T=0: 85->19
+*** transitions from 85 ***
+T=0: 85->85
+*** transitions from 85 ***
+T=0: 85->12
+*** transitions from 12 ***
+T=0: 12->12
+*** transitions from 12 ***
+T=0: 12->12
+*** transitions from 12 ***
+T=0: 12->12
+*** transitions from 12 ***
+T=0: 12->12
+*** transitions from 12 ***
+T=0: 12->3
+*** transitions from 12 ***
+T=0: 12->12
+*** transitions from 12 ***
+T=0: 12->27
+*** transitions from 12 ***
+T=0: 12->12
+*** transitions from 59 ***
+T=0: 59->59
+*** transitions from 59 ***
+T=0: 59->59
+*** transitions from 59 ***
+T=0: 59->59
+*** transitions from 59 ***
+T=0: 59->59
+*** transitions from 59 ***
+T=0: 59->59
+*** transitions from 59 ***
+T=0: 59->59
+*** transitions from 59 ***
+T=0: 59->19
+*** transitions from 59 ***
+T=0: 59->57
+*** transitions from 57 ***
+T=0: 57->57
+*** transitions from 57 ***
+T=0: 57->57
+*** transitions from 57 ***
+T=0: 57->57
+*** transitions from 57 ***
+T=0: 57->57
+*** transitions from 57 ***
+T=0: 57->57
+*** transitions from 57 ***
+T=0: 57->27
+*** transitions from 57 ***
+T=0: 57->57
+*** transitions from 57 ***
+T=0: 57->57
+*** transitions from 19 ***
+T=0: 19->19
+*** transitions from 19 ***
+T=0: 19->19
+*** transitions from 19 ***
+T=0: 19->19
+*** transitions from 19 ***
+T=0: 19->19
+*** transitions from 19 ***
+T=0: 19->19
+*** transitions from 19 ***
+T=0: 19->19
+*** transitions from 19 ***
+T=0: 19->19
+*** transitions from 19 ***
+T=0: 19->11
+*** transitions from 11 ***
+T=0: 11->11
+*** transitions from 11 ***
+T=0: 11->11
+*** transitions from 11 ***
+T=0: 11->11
+*** transitions from 11 ***
+T=0: 11->11
+*** transitions from 11 ***
+T=0: 11->11
+*** transitions from 11 ***
+T=0: 11->12
+*** transitions from 11 ***
+T=0: 11->11
+*** transitions from 11 ***
+T=0: 11->11
+*** transitions from 86 ***
+T=0: 86->87
+*** transitions from 86 ***
+T=0: 86->6
+*** transitions from 86 ***
+T=0: 86->86
+*** transitions from 86 ***
+T=0: 86->70
+*** transitions from 86 ***
+T=0: 86->86
+*** transitions from 86 ***
+T=0: 86->86
+*** transitions from 86 ***
+T=0: 86->88
+*** transitions from 86 ***
+T=0: 86->41
+*** transitions from 41 ***
+T=0: 41->41
+*** transitions from 41 ***
+T=0: 41->20
+*** transitions from 41 ***
+T=0: 41->41
+*** transitions from 41 ***
+T=0: 41->4
+*** transitions from 41 ***
+T=0: 41->41
+*** transitions from 41 ***
+T=0: 41->41
+*** transitions from 41 ***
+T=0: 41->41
+*** transitions from 41 ***
+T=0: 41->41
+*** transitions from 88 ***
+T=0: 88->89
+*** transitions from 88 ***
+T=0: 88->21
+*** transitions from 88 ***
+T=0: 88->88
+*** transitions from 88 ***
+T=0: 88->72
+*** transitions from 88 ***
+T=0: 88->88
+*** transitions from 88 ***
+T=0: 88->88
+*** transitions from 88 ***
+T=0: 88->88
+*** transitions from 88 ***
+T=0: 88->40
+*** transitions from 40 ***
+T=0: 40->40
+*** transitions from 40 ***
+T=0: 40->40
+*** transitions from 40 ***
+T=0: 40->40
+*** transitions from 40 ***
+T=0: 40->3
+*** transitions from 40 ***
+T=0: 40->40
+*** transitions from 40 ***
+T=0: 40->40
+*** transitions from 40 ***
+T=0: 40->41
+*** transitions from 40 ***
+T=0: 40->40
+*** transitions from 90 ***
+T=0: 90->91
+*** transitions from 90 ***
+T=0: 90->92
+*** transitions from 90 ***
+T=0: 90->90
+*** transitions from 90 ***
+T=0: 90->74
+*** transitions from 90 ***
+T=0: 90->90
+*** transitions from 90 ***
+T=0: 90->86
+*** transitions from 90 ***
+T=0: 90->93
+*** transitions from 90 ***
+T=0: 90->94
+*** transitions from 94 ***
+T=0: 94->94
+*** transitions from 94 ***
+T=0: 94->95
+*** transitions from 94 ***
+T=0: 94->94
+*** transitions from 94 ***
+T=0: 94->78
+*** transitions from 94 ***
+T=0: 94->94
+*** transitions from 94 ***
+T=0: 94->41
+*** transitions from 94 ***
+T=0: 94->94
+*** transitions from 94 ***
+T=0: 94->94
+*** transitions from 93 ***
+T=0: 93->96
+*** transitions from 93 ***
+T=0: 93->97
+*** transitions from 93 ***
+T=0: 93->93
+*** transitions from 93 ***
+T=0: 93->77
+*** transitions from 93 ***
+T=0: 93->93
+*** transitions from 93 ***
+T=0: 93->88
+*** transitions from 93 ***
+T=0: 93->93
+*** transitions from 93 ***
+T=0: 93->98
+*** transitions from 98 ***
+T=0: 98->98
+*** transitions from 98 ***
+T=0: 98->98
+*** transitions from 98 ***
+T=0: 98->98
+*** transitions from 98 ***
+T=0: 98->82
+*** transitions from 98 ***
+T=0: 98->98
+*** transitions from 98 ***
+T=0: 98->40
+*** transitions from 98 ***
+T=0: 98->98
+*** transitions from 98 ***
+T=0: 98->98
+*** transitions from 99 ***
+T=0: 99->100
+*** transitions from 99 ***
+T=0: 99->99
+*** transitions from 99 ***
+T=0: 99->99
+*** transitions from 99 ***
+T=0: 99->83
+*** transitions from 99 ***
+T=0: 99->86
+*** transitions from 99 ***
+T=0: 99->62
+*** transitions from 99 ***
+T=0: 99->101
+*** transitions from 99 ***
+T=0: 99->39
+*** transitions from 39 ***
+T=0: 39->39
+*** transitions from 39 ***
+T=0: 39->39
+*** transitions from 39 ***
+T=0: 39->39
+*** transitions from 39 ***
+T=0: 39->27
+*** transitions from 39 ***
+T=0: 39->41
+*** transitions from 39 ***
+T=0: 39->39
+*** transitions from 39 ***
+T=0: 39->39
+*** transitions from 39 ***
+T=0: 39->39
+*** transitions from 101 ***
+T=0: 101->102
+*** transitions from 101 ***
+T=0: 101->101
+*** transitions from 101 ***
+T=0: 101->101
+*** transitions from 101 ***
+T=0: 101->85
+*** transitions from 101 ***
+T=0: 101->88
+*** transitions from 101 ***
+T=0: 101->18
+*** transitions from 101 ***
+T=0: 101->101
+*** transitions from 101 ***
+T=0: 101->38
+*** transitions from 38 ***
+T=0: 38->38
+*** transitions from 38 ***
+T=0: 38->38
+*** transitions from 38 ***
+T=0: 38->38
+*** transitions from 38 ***
+T=0: 38->12
+*** transitions from 38 ***
+T=0: 38->40
+*** transitions from 38 ***
+T=0: 38->38
+*** transitions from 38 ***
+T=0: 38->39
+*** transitions from 38 ***
+T=0: 38->38
+*** transitions from 62 ***
+T=0: 62->62
+*** transitions from 62 ***
+T=0: 62->62
+*** transitions from 62 ***
+T=0: 62->62
+*** transitions from 62 ***
+T=0: 62->59
+*** transitions from 62 ***
+T=0: 62->62
+*** transitions from 62 ***
+T=0: 62->62
+*** transitions from 62 ***
+T=0: 62->18
+*** transitions from 62 ***
+T=0: 62->63
+*** transitions from 63 ***
+T=0: 63->63
+*** transitions from 63 ***
+T=0: 63->63
+*** transitions from 63 ***
+T=0: 63->63
+*** transitions from 63 ***
+T=0: 63->57
+*** transitions from 63 ***
+T=0: 63->63
+*** transitions from 63 ***
+T=0: 63->39
+*** transitions from 63 ***
+T=0: 63->63
+*** transitions from 63 ***
+T=0: 63->63
+*** transitions from 18 ***
+T=0: 18->18
+*** transitions from 18 ***
+T=0: 18->18
+*** transitions from 18 ***
+T=0: 18->18
+*** transitions from 18 ***
+T=0: 18->19
+*** transitions from 18 ***
+T=0: 18->18
+*** transitions from 18 ***
+T=0: 18->18
+*** transitions from 18 ***
+T=0: 18->18
+*** transitions from 18 ***
+T=0: 18->37
+*** transitions from 37 ***
+T=0: 37->37
+*** transitions from 37 ***
+T=0: 37->37
+*** transitions from 37 ***
+T=0: 37->37
+*** transitions from 37 ***
+T=0: 37->11
+*** transitions from 37 ***
+T=0: 37->37
+*** transitions from 37 ***
+T=0: 37->38
+*** transitions from 37 ***
+T=0: 37->37
+*** transitions from 37 ***
+T=0: 37->37
+*** transitions from 103 ***
+T=0: 103->104
+*** transitions from 103 ***
+T=0: 103->49
+*** transitions from 103 ***
+T=0: 103->70
+*** transitions from 103 ***
+T=0: 103->103
+*** transitions from 103 ***
+T=0: 103->103
+*** transitions from 103 ***
+T=0: 103->103
+*** transitions from 103 ***
+T=0: 103->105
+*** transitions from 103 ***
+T=0: 103->34
+*** transitions from 34 ***
+T=0: 34->34
+*** transitions from 34 ***
+T=0: 34->48
+*** transitions from 34 ***
+T=0: 34->4
+*** transitions from 34 ***
+T=0: 34->34
+*** transitions from 34 ***
+T=0: 34->34
+*** transitions from 34 ***
+T=0: 34->34
+*** transitions from 34 ***
+T=0: 34->34
+*** transitions from 34 ***
+T=0: 34->34
+*** transitions from 105 ***
+T=0: 105->106
+*** transitions from 105 ***
+T=0: 105->50
+*** transitions from 105 ***
+T=0: 105->72
+*** transitions from 105 ***
+T=0: 105->105
+*** transitions from 105 ***
+T=0: 105->105
+*** transitions from 105 ***
+T=0: 105->105
+*** transitions from 105 ***
+T=0: 105->105
+*** transitions from 105 ***
+T=0: 105->33
+*** transitions from 33 ***
+T=0: 33->33
+*** transitions from 33 ***
+T=0: 33->33
+*** transitions from 33 ***
+T=0: 33->3
+*** transitions from 33 ***
+T=0: 33->33
+*** transitions from 33 ***
+T=0: 33->33
+*** transitions from 33 ***
+T=0: 33->33
+*** transitions from 33 ***
+T=0: 33->34
+*** transitions from 33 ***
+T=0: 33->33
+*** transitions from 107 ***
+T=0: 107->108
+*** transitions from 107 ***
+T=0: 107->109
+*** transitions from 107 ***
+T=0: 107->74
+*** transitions from 107 ***
+T=0: 107->107
+*** transitions from 107 ***
+T=0: 107->107
+*** transitions from 107 ***
+T=0: 107->103
+*** transitions from 107 ***
+T=0: 107->110
+*** transitions from 107 ***
+T=0: 107->111
+*** transitions from 111 ***
+T=0: 111->111
+*** transitions from 111 ***
+T=0: 111->112
+*** transitions from 111 ***
+T=0: 111->78
+*** transitions from 111 ***
+T=0: 111->111
+*** transitions from 111 ***
+T=0: 111->111
+*** transitions from 111 ***
+T=0: 111->34
+*** transitions from 111 ***
+T=0: 111->111
+*** transitions from 111 ***
+T=0: 111->111
+*** transitions from 110 ***
+T=0: 110->113
+*** transitions from 110 ***
+T=0: 110->114
+*** transitions from 110 ***
+T=0: 110->77
+*** transitions from 110 ***
+T=0: 110->110
+*** transitions from 110 ***
+T=0: 110->110
+*** transitions from 110 ***
+T=0: 110->105
+*** transitions from 110 ***
+T=0: 110->110
+*** transitions from 110 ***
+T=0: 110->115
+*** transitions from 115 ***
+T=0: 115->115
+*** transitions from 115 ***
+T=0: 115->115
+*** transitions from 115 ***
+T=0: 115->82
+*** transitions from 115 ***
+T=0: 115->115
+*** transitions from 115 ***
+T=0: 115->115
+*** transitions from 115 ***
+T=0: 115->33
+*** transitions from 115 ***
+T=0: 115->115
+*** transitions from 115 ***
+T=0: 115->115
+*** transitions from 116 ***
+T=0: 116->117
+*** transitions from 116 ***
+T=0: 116->116
+*** transitions from 116 ***
+T=0: 116->83
+*** transitions from 116 ***
+T=0: 116->116
+*** transitions from 116 ***
+T=0: 116->103
+*** transitions from 116 ***
+T=0: 116->58
+*** transitions from 116 ***
+T=0: 116->118
+*** transitions from 116 ***
+T=0: 116->29
+*** transitions from 29 ***
+T=0: 29->29
+*** transitions from 29 ***
+T=0: 29->29
+*** transitions from 29 ***
+T=0: 29->27
+*** transitions from 29 ***
+T=0: 29->29
+*** transitions from 29 ***
+T=0: 29->34
+*** transitions from 29 ***
+T=0: 29->29
+*** transitions from 29 ***
+T=0: 29->29
+*** transitions from 29 ***
+T=0: 29->29
+*** transitions from 118 ***
+T=0: 118->66
+*** transitions from 118 ***
+T=0: 118->118
+*** transitions from 118 ***
+T=0: 118->85
+*** transitions from 118 ***
+T=0: 118->118
+*** transitions from 118 ***
+T=0: 118->105
+*** transitions from 118 ***
+T=0: 118->42
+*** transitions from 118 ***
+T=0: 118->118
+*** transitions from 118 ***
+T=0: 118->28
+*** transitions from 28 ***
+T=0: 28->28
+*** transitions from 28 ***
+T=0: 28->28
+*** transitions from 28 ***
+T=0: 28->12
+*** transitions from 28 ***
+T=0: 28->28
+*** transitions from 28 ***
+T=0: 28->33
+*** transitions from 28 ***
+T=0: 28->28
+*** transitions from 28 ***
+T=0: 28->29
+*** transitions from 28 ***
+T=0: 28->28
+*** transitions from 58 ***
+T=0: 58->58
+*** transitions from 58 ***
+T=0: 58->58
+*** transitions from 58 ***
+T=0: 58->59
+*** transitions from 58 ***
+T=0: 58->58
+*** transitions from 58 ***
+T=0: 58->58
+*** transitions from 58 ***
+T=0: 58->58
+*** transitions from 58 ***
+T=0: 58->42
+*** transitions from 58 ***
+T=0: 58->56
+*** transitions from 56 ***
+T=0: 56->56
+*** transitions from 56 ***
+T=0: 56->56
+*** transitions from 56 ***
+T=0: 56->57
+*** transitions from 56 ***
+T=0: 56->56
+*** transitions from 56 ***
+T=0: 56->56
+*** transitions from 56 ***
+T=0: 56->29
+*** transitions from 56 ***
+T=0: 56->56
+*** transitions from 56 ***
+T=0: 56->56
+*** transitions from 42 ***
+T=0: 42->42
+*** transitions from 42 ***
+T=0: 42->42
+*** transitions from 42 ***
+T=0: 42->19
+*** transitions from 42 ***
+T=0: 42->42
+*** transitions from 42 ***
+T=0: 42->42
+*** transitions from 42 ***
+T=0: 42->42
+*** transitions from 42 ***
+T=0: 42->42
+*** transitions from 42 ***
+T=0: 42->26
+*** transitions from 26 ***
+T=0: 26->26
+*** transitions from 26 ***
+T=0: 26->26
+*** transitions from 26 ***
+T=0: 26->11
+*** transitions from 26 ***
+T=0: 26->26
+*** transitions from 26 ***
+T=0: 26->26
+*** transitions from 26 ***
+T=0: 26->28
+*** transitions from 26 ***
+T=0: 26->26
+*** transitions from 26 ***
+T=0: 26->26
+*** transitions from 119 ***
+T=0: 119->120
+*** transitions from 119 ***
+T=0: 119->36
+*** transitions from 119 ***
+T=0: 119->86
+*** transitions from 119 ***
+T=0: 119->103
+*** transitions from 119 ***
+T=0: 119->119
+*** transitions from 119 ***
+T=0: 119->119
+*** transitions from 119 ***
+T=0: 119->121
+*** transitions from 119 ***
+T=0: 119->47
+*** transitions from 47 ***
+T=0: 47->47
+*** transitions from 47 ***
+T=0: 47->35
+*** transitions from 47 ***
+T=0: 47->41
+*** transitions from 47 ***
+T=0: 47->34
+*** transitions from 47 ***
+T=0: 47->47
+*** transitions from 47 ***
+T=0: 47->47
+*** transitions from 47 ***
+T=0: 47->47
+*** transitions from 47 ***
+T=0: 47->47
+*** transitions from 121 ***
+T=0: 121->122
+*** transitions from 121 ***
+T=0: 121->22
+*** transitions from 121 ***
+T=0: 121->88
+*** transitions from 121 ***
+T=0: 121->105
+*** transitions from 121 ***
+T=0: 121->121
+*** transitions from 121 ***
+T=0: 121->121
+*** transitions from 121 ***
+T=0: 121->121
+*** transitions from 121 ***
+T=0: 121->46
+*** transitions from 46 ***
+T=0: 46->46
+*** transitions from 46 ***
+T=0: 46->46
+*** transitions from 46 ***
+T=0: 46->40
+*** transitions from 46 ***
+T=0: 46->33
+*** transitions from 46 ***
+T=0: 46->46
+*** transitions from 46 ***
+T=0: 46->46
+*** transitions from 46 ***
+T=0: 46->47
+*** transitions from 46 ***
+T=0: 46->46
+*** transitions from 123 ***
+T=0: 123->124
+*** transitions from 123 ***
+T=0: 123->125
+*** transitions from 123 ***
+T=0: 123->90
+*** transitions from 123 ***
+T=0: 123->107
+*** transitions from 123 ***
+T=0: 123->123
+*** transitions from 123 ***
+T=0: 123->119
+*** transitions from 123 ***
+T=0: 123->126
+*** transitions from 123 ***
+T=0: 123->127
+*** transitions from 127 ***
+T=0: 127->127
+*** transitions from 127 ***
+T=0: 127->128
+*** transitions from 127 ***
+T=0: 127->94
+*** transitions from 127 ***
+T=0: 127->111
+*** transitions from 127 ***
+T=0: 127->127
+*** transitions from 127 ***
+T=0: 127->47
+*** transitions from 127 ***
+T=0: 127->127
+*** transitions from 127 ***
+T=0: 127->127
+*** transitions from 126 ***
+T=0: 126->129
+*** transitions from 126 ***
+T=0: 126->130
+*** transitions from 126 ***
+T=0: 126->93
+*** transitions from 126 ***
+T=0: 126->110
+*** transitions from 126 ***
+T=0: 126->126
+*** transitions from 126 ***
+T=0: 126->121
+*** transitions from 126 ***
+T=0: 126->126
+*** transitions from 126 ***
+T=0: 126->131
+*** transitions from 131 ***
+T=0: 131->131
+*** transitions from 131 ***
+T=0: 131->131
+*** transitions from 131 ***
+T=0: 131->98
+*** transitions from 131 ***
+T=0: 131->115
+*** transitions from 131 ***
+T=0: 131->131
+*** transitions from 131 ***
+T=0: 131->46
+*** transitions from 131 ***
+T=0: 131->131
+*** transitions from 131 ***
+T=0: 131->131
+*** transitions from 132 ***
+T=0: 132->43
+*** transitions from 132 ***
+T=0: 132->132
+*** transitions from 132 ***
+T=0: 132->99
+*** transitions from 132 ***
+T=0: 132->116
+*** transitions from 132 ***
+T=0: 132->119
+*** transitions from 132 ***
+T=0: 132->54
+*** transitions from 132 ***
+T=0: 132->1
+*** transitions from 132 ***
+T=0: 132->51
+*** transitions from 51 ***
+T=0: 51->51
+*** transitions from 51 ***
+T=0: 51->51
+*** transitions from 51 ***
+T=0: 51->39
+*** transitions from 51 ***
+T=0: 51->29
+*** transitions from 51 ***
+T=0: 51->47
+*** transitions from 51 ***
+T=0: 51->51
+*** transitions from 51 ***
+T=0: 51->51
+*** transitions from 51 ***
+T=0: 51->51
+*** transitions from 1 ***
+T=0: 1->17
+*** transitions from 1 ***
+T=0: 1->1
+*** transitions from 1 ***
+T=0: 1->101
+*** transitions from 1 ***
+T=0: 1->118
+*** transitions from 1 ***
+T=0: 1->121
+*** transitions from 1 ***
+T=0: 1->10
+*** transitions from 1 ***
+T=0: 1->1
+*** transitions from 1 ***
+T=0: 1->45
+*** transitions from 45 ***
+T=0: 45->45
+*** transitions from 45 ***
+T=0: 45->45
+*** transitions from 45 ***
+T=0: 45->38
+*** transitions from 45 ***
+T=0: 45->28
+*** transitions from 45 ***
+T=0: 45->46
+*** transitions from 45 ***
+T=0: 45->45
+*** transitions from 45 ***
+T=0: 45->51
+*** transitions from 45 ***
+T=0: 45->45
+*** transitions from 54 ***
+T=0: 54->54
+*** transitions from 54 ***
+T=0: 54->54
+*** transitions from 54 ***
+T=0: 54->62
+*** transitions from 54 ***
+T=0: 54->58
+*** transitions from 54 ***
+T=0: 54->54
+*** transitions from 54 ***
+T=0: 54->54
+*** transitions from 54 ***
+T=0: 54->10
+*** transitions from 54 ***
+T=0: 54->55
+*** transitions from 55 ***
+T=0: 55->55
+*** transitions from 55 ***
+T=0: 55->55
+*** transitions from 55 ***
+T=0: 55->63
+*** transitions from 55 ***
+T=0: 55->56
+*** transitions from 55 ***
+T=0: 55->55
+*** transitions from 55 ***
+T=0: 55->51
+*** transitions from 55 ***
+T=0: 55->55
+*** transitions from 55 ***
+T=0: 55->55
+*** transitions from 10 ***
+T=0: 10->10
+*** transitions from 10 ***
+T=0: 10->10
+*** transitions from 10 ***
+T=0: 10->18
+*** transitions from 10 ***
+T=0: 10->42
+*** transitions from 10 ***
+T=0: 10->10
+*** transitions from 10 ***
+T=0: 10->10
+*** transitions from 10 ***
+T=0: 10->10
+*** transitions from 10 ***
+T=0: 10->25
+*** transitions from 25 ***
+T=0: 25->25
+*** transitions from 25 ***
+T=0: 25->25
+*** transitions from 25 ***
+T=0: 25->37
+*** transitions from 25 ***
+T=0: 25->26
+*** transitions from 25 ***
+T=0: 25->25
+*** transitions from 25 ***
+T=0: 25->45
+*** transitions from 25 ***
+T=0: 25->25
+*** transitions from 25 ***
+T=0: 25->25
+*** transitions from 13 ***
+T=0: 13->14
+*** transitions from 13 ***
+T=0: 13->13
+*** transitions from 13 ***
+T=0: 13->13
+*** transitions from 13 ***
+T=0: 13->6
+*** transitions from 13 ***
+T=0: 13->13
+*** transitions from 13 ***
+T=0: 13->13
+*** transitions from 13 ***
+T=0: 13->44
+*** transitions from 13 ***
+T=0: 13->13
+*** transitions from 5 ***
+T=0: 5->5
+*** transitions from 5 ***
+T=0: 5->5
+*** transitions from 5 ***
+T=0: 5->5
+*** transitions from 5 ***
+T=0: 5->20
+*** transitions from 5 ***
+T=0: 5->5
+*** transitions from 5 ***
+T=0: 5->5
+*** transitions from 5 ***
+T=0: 5->5
+*** transitions from 5 ***
+T=0: 5->13
+*** transitions from 44 ***
+T=0: 44->15
+*** transitions from 44 ***
+T=0: 44->44
+*** transitions from 44 ***
+T=0: 44->44
+*** transitions from 44 ***
+T=0: 44->21
+*** transitions from 44 ***
+T=0: 44->44
+*** transitions from 44 ***
+T=0: 44->44
+*** transitions from 44 ***
+T=0: 44->44
+*** transitions from 44 ***
+T=0: 44->44
+*** transitions from 133 ***
+T=0: 133->133
+*** transitions from 133 ***
+T=0: 133->3
+*** transitions from 133 ***
+T=0: 133->133
+*** transitions from 133 ***
+T=0: 133->134
+*** transitions from 133 ***
+T=0: 133->133
+*** transitions from 133 ***
+T=0: 133->133
+*** transitions from 133 ***
+T=0: 133->133
+*** transitions from 133 ***
+T=0: 133->44
+*** transitions from 76 ***
+T=0: 76->135
+*** transitions from 76 ***
+T=0: 76->76
+*** transitions from 76 ***
+T=0: 76->76
+*** transitions from 76 ***
+T=0: 76->92
+*** transitions from 76 ***
+T=0: 76->76
+*** transitions from 76 ***
+T=0: 76->13
+*** transitions from 76 ***
+T=0: 76->81
+*** transitions from 76 ***
+T=0: 76->76
+*** transitions from 79 ***
+T=0: 79->79
+*** transitions from 79 ***
+T=0: 79->79
+*** transitions from 79 ***
+T=0: 79->79
+*** transitions from 79 ***
+T=0: 79->95
+*** transitions from 79 ***
+T=0: 79->79
+*** transitions from 79 ***
+T=0: 79->5
+*** transitions from 79 ***
+T=0: 79->79
+*** transitions from 79 ***
+T=0: 79->76
+*** transitions from 81 ***
+T=0: 81->136
+*** transitions from 81 ***
+T=0: 81->81
+*** transitions from 81 ***
+T=0: 81->81
+*** transitions from 81 ***
+T=0: 81->97
+*** transitions from 81 ***
+T=0: 81->81
+*** transitions from 81 ***
+T=0: 81->44
+*** transitions from 81 ***
+T=0: 81->81
+*** transitions from 81 ***
+T=0: 81->81
+*** transitions from 137 ***
+T=0: 137->137
+*** transitions from 137 ***
+T=0: 137->82
+*** transitions from 137 ***
+T=0: 137->137
+*** transitions from 137 ***
+T=0: 137->138
+*** transitions from 137 ***
+T=0: 137->137
+*** transitions from 137 ***
+T=0: 137->133
+*** transitions from 137 ***
+T=0: 137->137
+*** transitions from 137 ***
+T=0: 137->81
+*** transitions from 139 ***
+T=0: 139->140
+*** transitions from 139 ***
+T=0: 139->83
+*** transitions from 139 ***
+T=0: 139->139
+*** transitions from 139 ***
+T=0: 139->141
+*** transitions from 139 ***
+T=0: 139->13
+*** transitions from 139 ***
+T=0: 139->142
+*** transitions from 139 ***
+T=0: 139->143
+*** transitions from 139 ***
+T=0: 139->139
+*** transitions from 144 ***
+T=0: 144->144
+*** transitions from 144 ***
+T=0: 144->27
+*** transitions from 144 ***
+T=0: 144->144
+*** transitions from 144 ***
+T=0: 144->145
+*** transitions from 144 ***
+T=0: 144->5
+*** transitions from 144 ***
+T=0: 144->144
+*** transitions from 144 ***
+T=0: 144->144
+*** transitions from 144 ***
+T=0: 144->139
+*** transitions from 143 ***
+T=0: 143->146
+*** transitions from 143 ***
+T=0: 143->85
+*** transitions from 143 ***
+T=0: 143->143
+*** transitions from 143 ***
+T=0: 143->147
+*** transitions from 143 ***
+T=0: 143->44
+*** transitions from 143 ***
+T=0: 143->148
+*** transitions from 143 ***
+T=0: 143->143
+*** transitions from 143 ***
+T=0: 143->143
+*** transitions from 149 ***
+T=0: 149->149
+*** transitions from 149 ***
+T=0: 149->12
+*** transitions from 149 ***
+T=0: 149->149
+*** transitions from 149 ***
+T=0: 149->150
+*** transitions from 149 ***
+T=0: 149->133
+*** transitions from 149 ***
+T=0: 149->149
+*** transitions from 149 ***
+T=0: 149->149
+*** transitions from 149 ***
+T=0: 149->143
+*** transitions from 142 ***
+T=0: 142->142
+*** transitions from 142 ***
+T=0: 142->59
+*** transitions from 142 ***
+T=0: 142->142
+*** transitions from 142 ***
+T=0: 142->151
+*** transitions from 142 ***
+T=0: 142->142
+*** transitions from 142 ***
+T=0: 142->142
+*** transitions from 142 ***
+T=0: 142->148
+*** transitions from 142 ***
+T=0: 142->142
+*** transitions from 152 ***
+T=0: 152->152
+*** transitions from 152 ***
+T=0: 152->57
+*** transitions from 152 ***
+T=0: 152->152
+*** transitions from 152 ***
+T=0: 152->153
+*** transitions from 152 ***
+T=0: 152->152
+*** transitions from 152 ***
+T=0: 152->144
+*** transitions from 152 ***
+T=0: 152->152
+*** transitions from 152 ***
+T=0: 152->142
+*** transitions from 148 ***
+T=0: 148->148
+*** transitions from 148 ***
+T=0: 148->19
+*** transitions from 148 ***
+T=0: 148->148
+*** transitions from 148 ***
+T=0: 148->154
+*** transitions from 148 ***
+T=0: 148->148
+*** transitions from 148 ***
+T=0: 148->148
+*** transitions from 148 ***
+T=0: 148->148
+*** transitions from 148 ***
+T=0: 148->148
+*** transitions from 155 ***
+T=0: 155->155
+*** transitions from 155 ***
+T=0: 155->11
+*** transitions from 155 ***
+T=0: 155->155
+*** transitions from 155 ***
+T=0: 155->156
+*** transitions from 155 ***
+T=0: 155->155
+*** transitions from 155 ***
+T=0: 155->149
+*** transitions from 155 ***
+T=0: 155->155
+*** transitions from 155 ***
+T=0: 155->148
+*** transitions from 6 ***
+T=0: 6->30
+*** transitions from 6 ***
+T=0: 6->6
+*** transitions from 6 ***
+T=0: 6->36
+*** transitions from 6 ***
+T=0: 6->6
+*** transitions from 6 ***
+T=0: 6->6
+*** transitions from 6 ***
+T=0: 6->6
+*** transitions from 6 ***
+T=0: 6->21
+*** transitions from 6 ***
+T=0: 6->6
+*** transitions from 20 ***
+T=0: 20->20
+*** transitions from 20 ***
+T=0: 20->20
+*** transitions from 20 ***
+T=0: 20->35
+*** transitions from 20 ***
+T=0: 20->20
+*** transitions from 20 ***
+T=0: 20->20
+*** transitions from 20 ***
+T=0: 20->20
+*** transitions from 20 ***
+T=0: 20->20
+*** transitions from 20 ***
+T=0: 20->6
+*** transitions from 21 ***
+T=0: 21->16
+*** transitions from 21 ***
+T=0: 21->21
+*** transitions from 21 ***
+T=0: 21->22
+*** transitions from 21 ***
+T=0: 21->21
+*** transitions from 21 ***
+T=0: 21->21
+*** transitions from 21 ***
+T=0: 21->21
+*** transitions from 21 ***
+T=0: 21->21
+*** transitions from 21 ***
+T=0: 21->21
+*** transitions from 134 ***
+T=0: 134->134
+*** transitions from 134 ***
+T=0: 134->40
+*** transitions from 134 ***
+T=0: 134->157
+*** transitions from 134 ***
+T=0: 134->134
+*** transitions from 134 ***
+T=0: 134->134
+*** transitions from 134 ***
+T=0: 134->134
+*** transitions from 134 ***
+T=0: 134->134
+*** transitions from 134 ***
+T=0: 134->21
+*** transitions from 92 ***
+T=0: 92->158
+*** transitions from 92 ***
+T=0: 92->92
+*** transitions from 92 ***
+T=0: 92->125
+*** transitions from 92 ***
+T=0: 92->92
+*** transitions from 92 ***
+T=0: 92->92
+*** transitions from 92 ***
+T=0: 92->6
+*** transitions from 92 ***
+T=0: 92->97
+*** transitions from 92 ***
+T=0: 92->92
+*** transitions from 95 ***
+T=0: 95->95
+*** transitions from 95 ***
+T=0: 95->95
+*** transitions from 95 ***
+T=0: 95->128
+*** transitions from 95 ***
+T=0: 95->95
+*** transitions from 95 ***
+T=0: 95->95
+*** transitions from 95 ***
+T=0: 95->20
+*** transitions from 95 ***
+T=0: 95->95
+*** transitions from 95 ***
+T=0: 95->92
+*** transitions from 97 ***
+T=0: 97->159
+*** transitions from 97 ***
+T=0: 97->97
+*** transitions from 97 ***
+T=0: 97->130
+*** transitions from 97 ***
+T=0: 97->97
+*** transitions from 97 ***
+T=0: 97->97
+*** transitions from 97 ***
+T=0: 97->21
+*** transitions from 97 ***
+T=0: 97->97
+*** transitions from 97 ***
+T=0: 97->97
+*** transitions from 138 ***
+T=0: 138->138
+*** transitions from 138 ***
+T=0: 138->98
+*** transitions from 138 ***
+T=0: 138->160
+*** transitions from 138 ***
+T=0: 138->138
+*** transitions from 138 ***
+T=0: 138->138
+*** transitions from 138 ***
+T=0: 138->134
+*** transitions from 138 ***
+T=0: 138->138
+*** transitions from 138 ***
+T=0: 138->97
+*** transitions from 141 ***
+T=0: 141->161
+*** transitions from 141 ***
+T=0: 141->99
+*** transitions from 141 ***
+T=0: 141->162
+*** transitions from 141 ***
+T=0: 141->141
+*** transitions from 141 ***
+T=0: 141->6
+*** transitions from 141 ***
+T=0: 141->151
+*** transitions from 141 ***
+T=0: 141->147
+*** transitions from 141 ***
+T=0: 141->141
+*** transitions from 145 ***
+T=0: 145->145
+*** transitions from 145 ***
+T=0: 145->39
+*** transitions from 145 ***
+T=0: 145->163
+*** transitions from 145 ***
+T=0: 145->145
+*** transitions from 145 ***
+T=0: 145->20
+*** transitions from 145 ***
+T=0: 145->145
+*** transitions from 145 ***
+T=0: 145->145
+*** transitions from 145 ***
+T=0: 145->141
+*** transitions from 147 ***
+T=0: 147->164
+*** transitions from 147 ***
+T=0: 147->101
+*** transitions from 147 ***
+T=0: 147->165
+*** transitions from 147 ***
+T=0: 147->147
+*** transitions from 147 ***
+T=0: 147->21
+*** transitions from 147 ***
+T=0: 147->154
+*** transitions from 147 ***
+T=0: 147->147
+*** transitions from 147 ***
+T=0: 147->147
+*** transitions from 150 ***
+T=0: 150->150
+*** transitions from 150 ***
+T=0: 150->38
+*** transitions from 150 ***
+T=0: 150->166
+*** transitions from 150 ***
+T=0: 150->150
+*** transitions from 150 ***
+T=0: 150->134
+*** transitions from 150 ***
+T=0: 150->150
+*** transitions from 150 ***
+T=0: 150->150
+*** transitions from 150 ***
+T=0: 150->147
+*** transitions from 151 ***
+T=0: 151->151
+*** transitions from 151 ***
+T=0: 151->62
+*** transitions from 151 ***
+T=0: 151->60
+*** transitions from 151 ***
+T=0: 151->151
+*** transitions from 151 ***
+T=0: 151->151
+*** transitions from 151 ***
+T=0: 151->151
+*** transitions from 151 ***
+T=0: 151->154
+*** transitions from 151 ***
+T=0: 151->151
+*** transitions from 153 ***
+T=0: 153->153
+*** transitions from 153 ***
+T=0: 153->63
+*** transitions from 153 ***
+T=0: 153->167
+*** transitions from 153 ***
+T=0: 153->153
+*** transitions from 153 ***
+T=0: 153->153
+*** transitions from 153 ***
+T=0: 153->145
+*** transitions from 153 ***
+T=0: 153->153
+*** transitions from 153 ***
+T=0: 153->151
+*** transitions from 154 ***
+T=0: 154->154
+*** transitions from 154 ***
+T=0: 154->18
+*** transitions from 154 ***
+T=0: 154->24
+*** transitions from 154 ***
+T=0: 154->154
+*** transitions from 154 ***
+T=0: 154->154
+*** transitions from 154 ***
+T=0: 154->154
+*** transitions from 154 ***
+T=0: 154->154
+*** transitions from 154 ***
+T=0: 154->154
+*** transitions from 156 ***
+T=0: 156->156
+*** transitions from 156 ***
+T=0: 156->37
+*** transitions from 156 ***
+T=0: 156->168
+*** transitions from 156 ***
+T=0: 156->156
+*** transitions from 156 ***
+T=0: 156->156
+*** transitions from 156 ***
+T=0: 156->150
+*** transitions from 156 ***
+T=0: 156->156
+*** transitions from 156 ***
+T=0: 156->154
+*** transitions from 49 ***
+T=0: 49->61
+*** transitions from 49 ***
+T=0: 49->49
+*** transitions from 49 ***
+T=0: 49->13
+*** transitions from 49 ***
+T=0: 49->36
+*** transitions from 49 ***
+T=0: 49->49
+*** transitions from 49 ***
+T=0: 49->49
+*** transitions from 49 ***
+T=0: 49->50
+*** transitions from 49 ***
+T=0: 49->49
+*** transitions from 48 ***
+T=0: 48->48
+*** transitions from 48 ***
+T=0: 48->48
+*** transitions from 48 ***
+T=0: 48->5
+*** transitions from 48 ***
+T=0: 48->35
+*** transitions from 48 ***
+T=0: 48->48
+*** transitions from 48 ***
+T=0: 48->48
+*** transitions from 48 ***
+T=0: 48->48
+*** transitions from 48 ***
+T=0: 48->49
+*** transitions from 50 ***
+T=0: 50->169
+*** transitions from 50 ***
+T=0: 50->50
+*** transitions from 50 ***
+T=0: 50->44
+*** transitions from 50 ***
+T=0: 50->22
+*** transitions from 50 ***
+T=0: 50->50
+*** transitions from 50 ***
+T=0: 50->50
+*** transitions from 50 ***
+T=0: 50->50
+*** transitions from 50 ***
+T=0: 50->50
+*** transitions from 170 ***
+T=0: 170->170
+*** transitions from 170 ***
+T=0: 170->33
+*** transitions from 170 ***
+T=0: 170->133
+*** transitions from 170 ***
+T=0: 170->157
+*** transitions from 170 ***
+T=0: 170->170
+*** transitions from 170 ***
+T=0: 170->170
+*** transitions from 170 ***
+T=0: 170->170
+*** transitions from 170 ***
+T=0: 170->50
+*** transitions from 109 ***
+T=0: 109->171
+*** transitions from 109 ***
+T=0: 109->109
+*** transitions from 109 ***
+T=0: 109->76
+*** transitions from 109 ***
+T=0: 109->125
+*** transitions from 109 ***
+T=0: 109->109
+*** transitions from 109 ***
+T=0: 109->49
+*** transitions from 109 ***
+T=0: 109->114
+*** transitions from 109 ***
+T=0: 109->109
+*** transitions from 112 ***
+T=0: 112->112
+*** transitions from 112 ***
+T=0: 112->112
+*** transitions from 112 ***
+T=0: 112->79
+*** transitions from 112 ***
+T=0: 112->128
+*** transitions from 112 ***
+T=0: 112->112
+*** transitions from 112 ***
+T=0: 112->48
+*** transitions from 112 ***
+T=0: 112->112
+*** transitions from 112 ***
+T=0: 112->109
+*** transitions from 114 ***
+T=0: 114->172
+*** transitions from 114 ***
+T=0: 114->114
+*** transitions from 114 ***
+T=0: 114->81
+*** transitions from 114 ***
+T=0: 114->130
+*** transitions from 114 ***
+T=0: 114->114
+*** transitions from 114 ***
+T=0: 114->50
+*** transitions from 114 ***
+T=0: 114->114
+*** transitions from 114 ***
+T=0: 114->114
+*** transitions from 173 ***
+T=0: 173->173
+*** transitions from 173 ***
+T=0: 173->115
+*** transitions from 173 ***
+T=0: 173->137
+*** transitions from 173 ***
+T=0: 173->160
+*** transitions from 173 ***
+T=0: 173->173
+*** transitions from 173 ***
+T=0: 173->170
+*** transitions from 173 ***
+T=0: 173->173
+*** transitions from 173 ***
+T=0: 173->114
+*** transitions from 174 ***
+T=0: 174->64
+*** transitions from 174 ***
+T=0: 174->116
+*** transitions from 174 ***
+T=0: 174->139
+*** transitions from 174 ***
+T=0: 174->162
+*** transitions from 174 ***
+T=0: 174->49
+*** transitions from 174 ***
+T=0: 174->175
+*** transitions from 174 ***
+T=0: 174->176
+*** transitions from 174 ***
+T=0: 174->174
+*** transitions from 177 ***
+T=0: 177->177
+*** transitions from 177 ***
+T=0: 177->29
+*** transitions from 177 ***
+T=0: 177->144
+*** transitions from 177 ***
+T=0: 177->163
+*** transitions from 177 ***
+T=0: 177->48
+*** transitions from 177 ***
+T=0: 177->177
+*** transitions from 177 ***
+T=0: 177->177
+*** transitions from 177 ***
+T=0: 177->174
+*** transitions from 176 ***
+T=0: 176->65
+*** transitions from 176 ***
+T=0: 176->118
+*** transitions from 176 ***
+T=0: 176->143
+*** transitions from 176 ***
+T=0: 176->165
+*** transitions from 176 ***
+T=0: 176->50
+*** transitions from 176 ***
+T=0: 176->178
+*** transitions from 176 ***
+T=0: 176->176
+*** transitions from 176 ***
+T=0: 176->176
+*** transitions from 179 ***
+T=0: 179->179
+*** transitions from 179 ***
+T=0: 179->28
+*** transitions from 179 ***
+T=0: 179->149
+*** transitions from 179 ***
+T=0: 179->166
+*** transitions from 179 ***
+T=0: 179->170
+*** transitions from 179 ***
+T=0: 179->179
+*** transitions from 179 ***
+T=0: 179->179
+*** transitions from 179 ***
+T=0: 179->176
+*** transitions from 175 ***
+T=0: 175->175
+*** transitions from 175 ***
+T=0: 175->58
+*** transitions from 175 ***
+T=0: 175->142
+*** transitions from 175 ***
+T=0: 175->60
+*** transitions from 175 ***
+T=0: 175->175
+*** transitions from 175 ***
+T=0: 175->175
+*** transitions from 175 ***
+T=0: 175->178
+*** transitions from 175 ***
+T=0: 175->175
+*** transitions from 180 ***
+T=0: 180->180
+*** transitions from 180 ***
+T=0: 180->56
+*** transitions from 180 ***
+T=0: 180->152
+*** transitions from 180 ***
+T=0: 180->167
+*** transitions from 180 ***
+T=0: 180->180
+*** transitions from 180 ***
+T=0: 180->177
+*** transitions from 180 ***
+T=0: 180->180
+*** transitions from 180 ***
+T=0: 180->175
+*** transitions from 178 ***
+T=0: 178->178
+*** transitions from 178 ***
+T=0: 178->42
+*** transitions from 178 ***
+T=0: 178->148
+*** transitions from 178 ***
+T=0: 178->24
+*** transitions from 178 ***
+T=0: 178->178
+*** transitions from 178 ***
+T=0: 178->178
+*** transitions from 178 ***
+T=0: 178->178
+*** transitions from 178 ***
+T=0: 178->178
+*** transitions from 181 ***
+T=0: 181->181
+*** transitions from 181 ***
+T=0: 181->26
+*** transitions from 181 ***
+T=0: 181->155
+*** transitions from 181 ***
+T=0: 181->168
+*** transitions from 181 ***
+T=0: 181->181
+*** transitions from 181 ***
+T=0: 181->179
+*** transitions from 181 ***
+T=0: 181->181
+*** transitions from 181 ***
+T=0: 181->178
+*** transitions from 36 ***
+T=0: 36->31
+*** transitions from 36 ***
+T=0: 36->36
+*** transitions from 36 ***
+T=0: 36->36
+*** transitions from 36 ***
+T=0: 36->36
+*** transitions from 36 ***
+T=0: 36->36
+*** transitions from 36 ***
+T=0: 36->36
+*** transitions from 36 ***
+T=0: 36->22
+*** transitions from 36 ***
+T=0: 36->36
+*** transitions from 35 ***
+T=0: 35->35
+*** transitions from 35 ***
+T=0: 35->35
+*** transitions from 35 ***
+T=0: 35->35
+*** transitions from 35 ***
+T=0: 35->35
+*** transitions from 35 ***
+T=0: 35->35
+*** transitions from 35 ***
+T=0: 35->35
+*** transitions from 35 ***
+T=0: 35->35
+*** transitions from 35 ***
+T=0: 35->36
+*** transitions from 22 ***
+T=0: 22->7
+*** transitions from 22 ***
+T=0: 22->22
+*** transitions from 22 ***
+T=0: 22->22
+*** transitions from 22 ***
+T=0: 22->22
+*** transitions from 22 ***
+T=0: 22->22
+*** transitions from 22 ***
+T=0: 22->22
+*** transitions from 22 ***
+T=0: 22->22
+*** transitions from 22 ***
+T=0: 22->22
+*** transitions from 157 ***
+T=0: 157->157
+*** transitions from 157 ***
+T=0: 157->46
+*** transitions from 157 ***
+T=0: 157->157
+*** transitions from 157 ***
+T=0: 157->157
+*** transitions from 157 ***
+T=0: 157->157
+*** transitions from 157 ***
+T=0: 157->157
+*** transitions from 157 ***
+T=0: 157->157
+*** transitions from 157 ***
+T=0: 157->22
+*** transitions from 125 ***
+T=0: 125->182
+*** transitions from 125 ***
+T=0: 125->125
+*** transitions from 125 ***
+T=0: 125->125
+*** transitions from 125 ***
+T=0: 125->125
+*** transitions from 125 ***
+T=0: 125->125
+*** transitions from 125 ***
+T=0: 125->36
+*** transitions from 125 ***
+T=0: 125->130
+*** transitions from 125 ***
+T=0: 125->125
+*** transitions from 128 ***
+T=0: 128->128
+*** transitions from 128 ***
+T=0: 128->128
+*** transitions from 128 ***
+T=0: 128->128
+*** transitions from 128 ***
+T=0: 128->128
+*** transitions from 128 ***
+T=0: 128->128
+*** transitions from 128 ***
+T=0: 128->35
+*** transitions from 128 ***
+T=0: 128->128
+*** transitions from 128 ***
+T=0: 128->125
+*** transitions from 130 ***
+T=0: 130->183
+*** transitions from 130 ***
+T=0: 130->130
+*** transitions from 130 ***
+T=0: 130->130
+*** transitions from 130 ***
+T=0: 130->130
+*** transitions from 130 ***
+T=0: 130->130
+*** transitions from 130 ***
+T=0: 130->22
+*** transitions from 130 ***
+T=0: 130->130
+*** transitions from 130 ***
+T=0: 130->130
+*** transitions from 160 ***
+T=0: 160->160
+*** transitions from 160 ***
+T=0: 160->131
+*** transitions from 160 ***
+T=0: 160->160
+*** transitions from 160 ***
+T=0: 160->160
+*** transitions from 160 ***
+T=0: 160->160
+*** transitions from 160 ***
+T=0: 160->157
+*** transitions from 160 ***
+T=0: 160->160
+*** transitions from 160 ***
+T=0: 160->130
+*** transitions from 162 ***
+T=0: 162->32
+*** transitions from 162 ***
+T=0: 162->132
+*** transitions from 162 ***
+T=0: 162->162
+*** transitions from 162 ***
+T=0: 162->162
+*** transitions from 162 ***
+T=0: 162->36
+*** transitions from 162 ***
+T=0: 162->60
+*** transitions from 162 ***
+T=0: 162->165
+*** transitions from 162 ***
+T=0: 162->162
+*** transitions from 163 ***
+T=0: 163->163
+*** transitions from 163 ***
+T=0: 163->51
+*** transitions from 163 ***
+T=0: 163->163
+*** transitions from 163 ***
+T=0: 163->163
+*** transitions from 163 ***
+T=0: 163->35
+*** transitions from 163 ***
+T=0: 163->163
+*** transitions from 163 ***
+T=0: 163->163
+*** transitions from 163 ***
+T=0: 163->162
+*** transitions from 165 ***
+T=0: 165->8
+*** transitions from 165 ***
+T=0: 165->1
+*** transitions from 165 ***
+T=0: 165->165
+*** transitions from 165 ***
+T=0: 165->165
+*** transitions from 165 ***
+T=0: 165->22
+*** transitions from 165 ***
+T=0: 165->24
+*** transitions from 165 ***
+T=0: 165->165
+*** transitions from 165 ***
+T=0: 165->165
+*** transitions from 166 ***
+T=0: 166->166
+*** transitions from 166 ***
+T=0: 166->45
+*** transitions from 166 ***
+T=0: 166->166
+*** transitions from 166 ***
+T=0: 166->166
+*** transitions from 166 ***
+T=0: 166->157
+*** transitions from 166 ***
+T=0: 166->166
+*** transitions from 166 ***
+T=0: 166->166
+*** transitions from 166 ***
+T=0: 166->165
+*** transitions from 60 ***
+T=0: 60->60
+*** transitions from 60 ***
+T=0: 60->54
+*** transitions from 60 ***
+T=0: 60->60
+*** transitions from 60 ***
+T=0: 60->60
+*** transitions from 60 ***
+T=0: 60->60
+*** transitions from 60 ***
+T=0: 60->60
+*** transitions from 60 ***
+T=0: 60->24
+*** transitions from 60 ***
+T=0: 60->60
+*** transitions from 167 ***
+T=0: 167->167
+*** transitions from 167 ***
+T=0: 167->55
+*** transitions from 167 ***
+T=0: 167->167
+*** transitions from 167 ***
+T=0: 167->167
+*** transitions from 167 ***
+T=0: 167->167
+*** transitions from 167 ***
+T=0: 167->163
+*** transitions from 167 ***
+T=0: 167->167
+*** transitions from 167 ***
+T=0: 167->60
+*** transitions from 24 ***
+T=0: 24->24
+*** transitions from 24 ***
+T=0: 24->10
+*** transitions from 24 ***
+T=0: 24->24
+*** transitions from 24 ***
+T=0: 24->24
+*** transitions from 24 ***
+T=0: 24->24
+*** transitions from 24 ***
+T=0: 24->24
+*** transitions from 24 ***
+T=0: 24->24
+*** transitions from 24 ***
+T=0: 24->24
+*** transitions from 168 ***
+T=0: 168->168
+*** transitions from 168 ***
+T=0: 168->25
+*** transitions from 168 ***
+T=0: 168->168
+*** transitions from 168 ***
+T=0: 168->168
+*** transitions from 168 ***
+T=0: 168->168
+*** transitions from 168 ***
+T=0: 168->166
+*** transitions from 168 ***
+T=0: 168->168
+*** transitions from 168 ***
+T=0: 168->24
+*** transitions from 71 ***
+T=0: 71->71
+*** transitions from 71 ***
+T=0: 71->14
+*** transitions from 71 ***
+T=0: 71->71
+*** transitions from 71 ***
+T=0: 71->71
+*** transitions from 71 ***
+T=0: 71->71
+*** transitions from 71 ***
+T=0: 71->71
+*** transitions from 71 ***
+T=0: 71->73
+*** transitions from 71 ***
+T=0: 71->184
+*** transitions from 184 ***
+T=0: 184->4
+*** transitions from 184 ***
+T=0: 184->185
+*** transitions from 184 ***
+T=0: 184->184
+*** transitions from 184 ***
+T=0: 184->184
+*** transitions from 184 ***
+T=0: 184->184
+*** transitions from 184 ***
+T=0: 184->184
+*** transitions from 184 ***
+T=0: 184->184
+*** transitions from 184 ***
+T=0: 184->184
+*** transitions from 73 ***
+T=0: 73->73
+*** transitions from 73 ***
+T=0: 73->15
+*** transitions from 73 ***
+T=0: 73->73
+*** transitions from 73 ***
+T=0: 73->73
+*** transitions from 73 ***
+T=0: 73->73
+*** transitions from 73 ***
+T=0: 73->73
+*** transitions from 73 ***
+T=0: 73->73
+*** transitions from 73 ***
+T=0: 73->186
+*** transitions from 186 ***
+T=0: 186->3
+*** transitions from 186 ***
+T=0: 186->186
+*** transitions from 186 ***
+T=0: 186->186
+*** transitions from 186 ***
+T=0: 186->186
+*** transitions from 186 ***
+T=0: 186->186
+*** transitions from 186 ***
+T=0: 186->186
+*** transitions from 186 ***
+T=0: 186->186
+*** transitions from 186 ***
+T=0: 186->186
+*** transitions from 75 ***
+T=0: 75->75
+*** transitions from 75 ***
+T=0: 75->135
+*** transitions from 75 ***
+T=0: 75->75
+*** transitions from 75 ***
+T=0: 75->75
+*** transitions from 75 ***
+T=0: 75->75
+*** transitions from 75 ***
+T=0: 75->71
+*** transitions from 75 ***
+T=0: 75->80
+*** transitions from 75 ***
+T=0: 75->187
+*** transitions from 187 ***
+T=0: 187->78
+*** transitions from 187 ***
+T=0: 187->188
+*** transitions from 187 ***
+T=0: 187->187
+*** transitions from 187 ***
+T=0: 187->187
+*** transitions from 187 ***
+T=0: 187->187
+*** transitions from 187 ***
+T=0: 187->184
+*** transitions from 187 ***
+T=0: 187->187
+*** transitions from 187 ***
+T=0: 187->187
+*** transitions from 80 ***
+T=0: 80->80
+*** transitions from 80 ***
+T=0: 80->136
+*** transitions from 80 ***
+T=0: 80->80
+*** transitions from 80 ***
+T=0: 80->80
+*** transitions from 80 ***
+T=0: 80->80
+*** transitions from 80 ***
+T=0: 80->73
+*** transitions from 80 ***
+T=0: 80->80
+*** transitions from 80 ***
+T=0: 80->2
+*** transitions from 2 ***
+T=0: 2->82
+*** transitions from 2 ***
+T=0: 2->2
+*** transitions from 2 ***
+T=0: 2->2
+*** transitions from 2 ***
+T=0: 2->2
+*** transitions from 2 ***
+T=0: 2->2
+*** transitions from 2 ***
+T=0: 2->186
+*** transitions from 2 ***
+T=0: 2->2
+*** transitions from 2 ***
+T=0: 2->2
+*** transitions from 84 ***
+T=0: 84->84
+*** transitions from 84 ***
+T=0: 84->84
+*** transitions from 84 ***
+T=0: 84->84
+*** transitions from 84 ***
+T=0: 84->84
+*** transitions from 84 ***
+T=0: 84->71
+*** transitions from 84 ***
+T=0: 84->189
+*** transitions from 84 ***
+T=0: 84->67
+*** transitions from 84 ***
+T=0: 84->190
+*** transitions from 190 ***
+T=0: 190->27
+*** transitions from 190 ***
+T=0: 190->190
+*** transitions from 190 ***
+T=0: 190->190
+*** transitions from 190 ***
+T=0: 190->190
+*** transitions from 190 ***
+T=0: 190->184
+*** transitions from 190 ***
+T=0: 190->190
+*** transitions from 190 ***
+T=0: 190->190
+*** transitions from 190 ***
+T=0: 190->190
+*** transitions from 67 ***
+T=0: 67->67
+*** transitions from 67 ***
+T=0: 67->67
+*** transitions from 67 ***
+T=0: 67->67
+*** transitions from 67 ***
+T=0: 67->67
+*** transitions from 67 ***
+T=0: 67->73
+*** transitions from 67 ***
+T=0: 67->68
+*** transitions from 67 ***
+T=0: 67->67
+*** transitions from 67 ***
+T=0: 67->191
+*** transitions from 191 ***
+T=0: 191->12
+*** transitions from 191 ***
+T=0: 191->191
+*** transitions from 191 ***
+T=0: 191->191
+*** transitions from 191 ***
+T=0: 191->191
+*** transitions from 191 ***
+T=0: 191->186
+*** transitions from 191 ***
+T=0: 191->191
+*** transitions from 191 ***
+T=0: 191->191
+*** transitions from 191 ***
+T=0: 191->191
+*** transitions from 189 ***
+T=0: 189->59
+*** transitions from 189 ***
+T=0: 189->189
+*** transitions from 189 ***
+T=0: 189->189
+*** transitions from 189 ***
+T=0: 189->189
+*** transitions from 189 ***
+T=0: 189->189
+*** transitions from 189 ***
+T=0: 189->189
+*** transitions from 189 ***
+T=0: 189->68
+*** transitions from 189 ***
+T=0: 189->192
+*** transitions from 192 ***
+T=0: 192->57
+*** transitions from 192 ***
+T=0: 192->192
+*** transitions from 192 ***
+T=0: 192->192
+*** transitions from 192 ***
+T=0: 192->192
+*** transitions from 192 ***
+T=0: 192->192
+*** transitions from 192 ***
+T=0: 192->190
+*** transitions from 192 ***
+T=0: 192->192
+*** transitions from 192 ***
+T=0: 192->192
+*** transitions from 68 ***
+T=0: 68->19
+*** transitions from 68 ***
+T=0: 68->68
+*** transitions from 68 ***
+T=0: 68->68
+*** transitions from 68 ***
+T=0: 68->68
+*** transitions from 68 ***
+T=0: 68->68
+*** transitions from 68 ***
+T=0: 68->68
+*** transitions from 68 ***
+T=0: 68->68
+*** transitions from 68 ***
+T=0: 68->69
+*** transitions from 69 ***
+T=0: 69->11
+*** transitions from 69 ***
+T=0: 69->69
+*** transitions from 69 ***
+T=0: 69->69
+*** transitions from 69 ***
+T=0: 69->69
+*** transitions from 69 ***
+T=0: 69->69
+*** transitions from 69 ***
+T=0: 69->191
+*** transitions from 69 ***
+T=0: 69->69
+*** transitions from 69 ***
+T=0: 69->69
+*** transitions from 87 ***
+T=0: 87->87
+*** transitions from 87 ***
+T=0: 87->30
+*** transitions from 87 ***
+T=0: 87->120
+*** transitions from 87 ***
+T=0: 87->71
+*** transitions from 87 ***
+T=0: 87->87
+*** transitions from 87 ***
+T=0: 87->87
+*** transitions from 87 ***
+T=0: 87->89
+*** transitions from 87 ***
+T=0: 87->193
+*** transitions from 193 ***
+T=0: 193->41
+*** transitions from 193 ***
+T=0: 193->194
+*** transitions from 193 ***
+T=0: 193->195
+*** transitions from 193 ***
+T=0: 193->184
+*** transitions from 193 ***
+T=0: 193->193
+*** transitions from 193 ***
+T=0: 193->193
+*** transitions from 193 ***
+T=0: 193->193
+*** transitions from 193 ***
+T=0: 193->193
+*** transitions from 89 ***
+T=0: 89->89
+*** transitions from 89 ***
+T=0: 89->16
+*** transitions from 89 ***
+T=0: 89->122
+*** transitions from 89 ***
+T=0: 89->73
+*** transitions from 89 ***
+T=0: 89->89
+*** transitions from 89 ***
+T=0: 89->89
+*** transitions from 89 ***
+T=0: 89->89
+*** transitions from 89 ***
+T=0: 89->196
+*** transitions from 196 ***
+T=0: 196->40
+*** transitions from 196 ***
+T=0: 196->196
+*** transitions from 196 ***
+T=0: 196->197
+*** transitions from 196 ***
+T=0: 196->186
+*** transitions from 196 ***
+T=0: 196->196
+*** transitions from 196 ***
+T=0: 196->196
+*** transitions from 196 ***
+T=0: 196->196
+*** transitions from 196 ***
+T=0: 196->196
+*** transitions from 91 ***
+T=0: 91->91
+*** transitions from 91 ***
+T=0: 91->158
+*** transitions from 91 ***
+T=0: 91->124
+*** transitions from 91 ***
+T=0: 91->75
+*** transitions from 91 ***
+T=0: 91->91
+*** transitions from 91 ***
+T=0: 91->87
+*** transitions from 91 ***
+T=0: 91->96
+*** transitions from 91 ***
+T=0: 91->198
+*** transitions from 198 ***
+T=0: 198->94
+*** transitions from 198 ***
+T=0: 198->199
+*** transitions from 198 ***
+T=0: 198->200
+*** transitions from 198 ***
+T=0: 198->187
+*** transitions from 198 ***
+T=0: 198->198
+*** transitions from 198 ***
+T=0: 198->193
+*** transitions from 198 ***
+T=0: 198->198
+*** transitions from 198 ***
+T=0: 198->198
+*** transitions from 96 ***
+T=0: 96->96
+*** transitions from 96 ***
+T=0: 96->159
+*** transitions from 96 ***
+T=0: 96->129
+*** transitions from 96 ***
+T=0: 96->80
+*** transitions from 96 ***
+T=0: 96->96
+*** transitions from 96 ***
+T=0: 96->89
+*** transitions from 96 ***
+T=0: 96->96
+*** transitions from 96 ***
+T=0: 96->201
+*** transitions from 201 ***
+T=0: 201->98
+*** transitions from 201 ***
+T=0: 201->201
+*** transitions from 201 ***
+T=0: 201->202
+*** transitions from 201 ***
+T=0: 201->2
+*** transitions from 201 ***
+T=0: 201->201
+*** transitions from 201 ***
+T=0: 201->196
+*** transitions from 201 ***
+T=0: 201->201
+*** transitions from 201 ***
+T=0: 201->201
+*** transitions from 100 ***
+T=0: 100->100
+*** transitions from 100 ***
+T=0: 100->100
+*** transitions from 100 ***
+T=0: 100->43
+*** transitions from 100 ***
+T=0: 100->84
+*** transitions from 100 ***
+T=0: 100->87
+*** transitions from 100 ***
+T=0: 100->203
+*** transitions from 100 ***
+T=0: 100->102
+*** transitions from 100 ***
+T=0: 100->204
+*** transitions from 204 ***
+T=0: 204->39
+*** transitions from 204 ***
+T=0: 204->204
+*** transitions from 204 ***
+T=0: 204->205
+*** transitions from 204 ***
+T=0: 204->190
+*** transitions from 204 ***
+T=0: 204->193
+*** transitions from 204 ***
+T=0: 204->204
+*** transitions from 204 ***
+T=0: 204->204
+*** transitions from 204 ***
+T=0: 204->204
+*** transitions from 102 ***
+T=0: 102->102
+*** transitions from 102 ***
+T=0: 102->102
+*** transitions from 102 ***
+T=0: 102->17
+*** transitions from 102 ***
+T=0: 102->67
+*** transitions from 102 ***
+T=0: 102->89
+*** transitions from 102 ***
+T=0: 102->206
+*** transitions from 102 ***
+T=0: 102->102
+*** transitions from 102 ***
+T=0: 102->207
+*** transitions from 207 ***
+T=0: 207->38
+*** transitions from 207 ***
+T=0: 207->207
+*** transitions from 207 ***
+T=0: 207->208
+*** transitions from 207 ***
+T=0: 207->191
+*** transitions from 207 ***
+T=0: 207->196
+*** transitions from 207 ***
+T=0: 207->207
+*** transitions from 207 ***
+T=0: 207->207
+*** transitions from 207 ***
+T=0: 207->207
+*** transitions from 203 ***
+T=0: 203->62
+*** transitions from 203 ***
+T=0: 203->203
+*** transitions from 203 ***
+T=0: 203->53
+*** transitions from 203 ***
+T=0: 203->189
+*** transitions from 203 ***
+T=0: 203->203
+*** transitions from 203 ***
+T=0: 203->203
+*** transitions from 203 ***
+T=0: 203->206
+*** transitions from 203 ***
+T=0: 203->209
+*** transitions from 209 ***
+T=0: 209->63
+*** transitions from 209 ***
+T=0: 209->209
+*** transitions from 209 ***
+T=0: 209->210
+*** transitions from 209 ***
+T=0: 209->192
+*** transitions from 209 ***
+T=0: 209->209
+*** transitions from 209 ***
+T=0: 209->204
+*** transitions from 209 ***
+T=0: 209->209
+*** transitions from 209 ***
+T=0: 209->209
+*** transitions from 206 ***
+T=0: 206->18
+*** transitions from 206 ***
+T=0: 206->206
+*** transitions from 206 ***
+T=0: 206->9
+*** transitions from 206 ***
+T=0: 206->68
+*** transitions from 206 ***
+T=0: 206->206
+*** transitions from 206 ***
+T=0: 206->206
+*** transitions from 206 ***
+T=0: 206->206
+*** transitions from 206 ***
+T=0: 206->211
+*** transitions from 211 ***
+T=0: 211->37
+*** transitions from 211 ***
+T=0: 211->211
+*** transitions from 211 ***
+T=0: 211->212
+*** transitions from 211 ***
+T=0: 211->69
+*** transitions from 211 ***
+T=0: 211->211
+*** transitions from 211 ***
+T=0: 211->207
+*** transitions from 211 ***
+T=0: 211->211
+*** transitions from 211 ***
+T=0: 211->211
+*** transitions from 104 ***
+T=0: 104->104
+*** transitions from 104 ***
+T=0: 104->61
+*** transitions from 104 ***
+T=0: 104->71
+*** transitions from 104 ***
+T=0: 104->120
+*** transitions from 104 ***
+T=0: 104->117
+*** transitions from 104 ***
+T=0: 104->104
+*** transitions from 104 ***
+T=0: 104->106
+*** transitions from 104 ***
+T=0: 104->104
+*** transitions from 213 ***
+T=0: 213->34
+*** transitions from 213 ***
+T=0: 213->214
+*** transitions from 213 ***
+T=0: 213->184
+*** transitions from 213 ***
+T=0: 213->195
+*** transitions from 213 ***
+T=0: 213->215
+*** transitions from 213 ***
+T=0: 213->213
+*** transitions from 213 ***
+T=0: 213->213
+*** transitions from 213 ***
+T=0: 213->104
+*** transitions from 106 ***
+T=0: 106->106
+*** transitions from 106 ***
+T=0: 106->169
+*** transitions from 106 ***
+T=0: 106->73
+*** transitions from 106 ***
+T=0: 106->122
+*** transitions from 106 ***
+T=0: 106->66
+*** transitions from 106 ***
+T=0: 106->106
+*** transitions from 106 ***
+T=0: 106->106
+*** transitions from 106 ***
+T=0: 106->106
+*** transitions from 216 ***
+T=0: 216->33
+*** transitions from 216 ***
+T=0: 216->216
+*** transitions from 216 ***
+T=0: 216->186
+*** transitions from 216 ***
+T=0: 216->197
+*** transitions from 216 ***
+T=0: 216->217
+*** transitions from 216 ***
+T=0: 216->216
+*** transitions from 216 ***
+T=0: 216->216
+*** transitions from 216 ***
+T=0: 216->106
+*** transitions from 108 ***
+T=0: 108->108
+*** transitions from 108 ***
+T=0: 108->171
+*** transitions from 108 ***
+T=0: 108->75
+*** transitions from 108 ***
+T=0: 108->124
+*** transitions from 108 ***
+T=0: 108->218
+*** transitions from 108 ***
+T=0: 108->104
+*** transitions from 108 ***
+T=0: 108->113
+*** transitions from 108 ***
+T=0: 108->108
+*** transitions from 219 ***
+T=0: 219->111
+*** transitions from 219 ***
+T=0: 219->220
+*** transitions from 219 ***
+T=0: 219->187
+*** transitions from 219 ***
+T=0: 219->200
+*** transitions from 219 ***
+T=0: 219->221
+*** transitions from 219 ***
+T=0: 219->213
+*** transitions from 219 ***
+T=0: 219->219
+*** transitions from 219 ***
+T=0: 219->108
+*** transitions from 113 ***
+T=0: 113->113
+*** transitions from 113 ***
+T=0: 113->172
+*** transitions from 113 ***
+T=0: 113->80
+*** transitions from 113 ***
+T=0: 113->129
+*** transitions from 113 ***
+T=0: 113->222
+*** transitions from 113 ***
+T=0: 113->106
+*** transitions from 113 ***
+T=0: 113->113
+*** transitions from 113 ***
+T=0: 113->113
+*** transitions from 223 ***
+T=0: 223->115
+*** transitions from 223 ***
+T=0: 223->223
+*** transitions from 223 ***
+T=0: 223->2
+*** transitions from 223 ***
+T=0: 223->202
+*** transitions from 223 ***
+T=0: 223->224
+*** transitions from 223 ***
+T=0: 223->216
+*** transitions from 223 ***
+T=0: 223->223
+*** transitions from 223 ***
+T=0: 223->113
+*** transitions from 117 ***
+T=0: 117->117
+*** transitions from 117 ***
+T=0: 117->117
+*** transitions from 117 ***
+T=0: 117->84
+*** transitions from 117 ***
+T=0: 117->43
+*** transitions from 117 ***
+T=0: 117->117
+*** transitions from 117 ***
+T=0: 117->218
+*** transitions from 117 ***
+T=0: 117->66
+*** transitions from 117 ***
+T=0: 117->117
+*** transitions from 215 ***
+T=0: 215->29
+*** transitions from 215 ***
+T=0: 215->215
+*** transitions from 215 ***
+T=0: 215->190
+*** transitions from 215 ***
+T=0: 215->205
+*** transitions from 215 ***
+T=0: 215->215
+*** transitions from 215 ***
+T=0: 215->215
+*** transitions from 215 ***
+T=0: 215->215
+*** transitions from 215 ***
+T=0: 215->117
+*** transitions from 66 ***
+T=0: 66->66
+*** transitions from 66 ***
+T=0: 66->66
+*** transitions from 66 ***
+T=0: 66->67
+*** transitions from 66 ***
+T=0: 66->17
+*** transitions from 66 ***
+T=0: 66->66
+*** transitions from 66 ***
+T=0: 66->222
+*** transitions from 66 ***
+T=0: 66->66
+*** transitions from 66 ***
+T=0: 66->66
+*** transitions from 217 ***
+T=0: 217->28
+*** transitions from 217 ***
+T=0: 217->217
+*** transitions from 217 ***
+T=0: 217->191
+*** transitions from 217 ***
+T=0: 217->208
+*** transitions from 217 ***
+T=0: 217->217
+*** transitions from 217 ***
+T=0: 217->217
+*** transitions from 217 ***
+T=0: 217->217
+*** transitions from 217 ***
+T=0: 217->66
+*** transitions from 218 ***
+T=0: 218->58
+*** transitions from 218 ***
+T=0: 218->218
+*** transitions from 218 ***
+T=0: 218->189
+*** transitions from 218 ***
+T=0: 218->53
+*** transitions from 218 ***
+T=0: 218->218
+*** transitions from 218 ***
+T=0: 218->218
+*** transitions from 218 ***
+T=0: 218->222
+*** transitions from 218 ***
+T=0: 218->218
+*** transitions from 221 ***
+T=0: 221->56
+*** transitions from 221 ***
+T=0: 221->221
+*** transitions from 221 ***
+T=0: 221->192
+*** transitions from 221 ***
+T=0: 221->210
+*** transitions from 221 ***
+T=0: 221->221
+*** transitions from 221 ***
+T=0: 221->215
+*** transitions from 221 ***
+T=0: 221->221
+*** transitions from 221 ***
+T=0: 221->218
+*** transitions from 222 ***
+T=0: 222->42
+*** transitions from 222 ***
+T=0: 222->222
+*** transitions from 222 ***
+T=0: 222->68
+*** transitions from 222 ***
+T=0: 222->9
+*** transitions from 222 ***
+T=0: 222->222
+*** transitions from 222 ***
+T=0: 222->222
+*** transitions from 222 ***
+T=0: 222->222
+*** transitions from 222 ***
+T=0: 222->222
+*** transitions from 224 ***
+T=0: 224->26
+*** transitions from 224 ***
+T=0: 224->224
+*** transitions from 224 ***
+T=0: 224->69
+*** transitions from 224 ***
+T=0: 224->212
+*** transitions from 224 ***
+T=0: 224->224
+*** transitions from 224 ***
+T=0: 224->217
+*** transitions from 224 ***
+T=0: 224->224
+*** transitions from 224 ***
+T=0: 224->222
+*** transitions from 120 ***
+T=0: 120->120
+*** transitions from 120 ***
+T=0: 120->31
+*** transitions from 120 ***
+T=0: 120->120
+*** transitions from 120 ***
+T=0: 120->120
+*** transitions from 120 ***
+T=0: 120->43
+*** transitions from 120 ***
+T=0: 120->120
+*** transitions from 120 ***
+T=0: 120->122
+*** transitions from 120 ***
+T=0: 120->120
+*** transitions from 195 ***
+T=0: 195->47
+*** transitions from 195 ***
+T=0: 195->225
+*** transitions from 195 ***
+T=0: 195->195
+*** transitions from 195 ***
+T=0: 195->195
+*** transitions from 195 ***
+T=0: 195->205
+*** transitions from 195 ***
+T=0: 195->195
+*** transitions from 195 ***
+T=0: 195->195
+*** transitions from 195 ***
+T=0: 195->120
+*** transitions from 122 ***
+T=0: 122->122
+*** transitions from 122 ***
+T=0: 122->7
+*** transitions from 122 ***
+T=0: 122->122
+*** transitions from 122 ***
+T=0: 122->122
+*** transitions from 122 ***
+T=0: 122->17
+*** transitions from 122 ***
+T=0: 122->122
+*** transitions from 122 ***
+T=0: 122->122
+*** transitions from 122 ***
+T=0: 122->122
+*** transitions from 197 ***
+T=0: 197->46
+*** transitions from 197 ***
+T=0: 197->197
+*** transitions from 197 ***
+T=0: 197->197
+*** transitions from 197 ***
+T=0: 197->197
+*** transitions from 197 ***
+T=0: 197->208
+*** transitions from 197 ***
+T=0: 197->197
+*** transitions from 197 ***
+T=0: 197->197
+*** transitions from 197 ***
+T=0: 197->122
+*** transitions from 124 ***
+T=0: 124->124
+*** transitions from 124 ***
+T=0: 124->182
+*** transitions from 124 ***
+T=0: 124->124
+*** transitions from 124 ***
+T=0: 124->124
+*** transitions from 124 ***
+T=0: 124->53
+*** transitions from 124 ***
+T=0: 124->120
+*** transitions from 124 ***
+T=0: 124->129
+*** transitions from 124 ***
+T=0: 124->124
+*** transitions from 200 ***
+T=0: 200->127
+*** transitions from 200 ***
+T=0: 200->226
+*** transitions from 200 ***
+T=0: 200->200
+*** transitions from 200 ***
+T=0: 200->200
+*** transitions from 200 ***
+T=0: 200->210
+*** transitions from 200 ***
+T=0: 200->195
+*** transitions from 200 ***
+T=0: 200->200
+*** transitions from 200 ***
+T=0: 200->124
+*** transitions from 129 ***
+T=0: 129->129
+*** transitions from 129 ***
+T=0: 129->183
+*** transitions from 129 ***
+T=0: 129->129
+*** transitions from 129 ***
+T=0: 129->129
+*** transitions from 129 ***
+T=0: 129->9
+*** transitions from 129 ***
+T=0: 129->122
+*** transitions from 129 ***
+T=0: 129->129
+*** transitions from 129 ***
+T=0: 129->129
+*** transitions from 202 ***
+T=0: 202->131
+*** transitions from 202 ***
+T=0: 202->202
+*** transitions from 202 ***
+T=0: 202->202
+*** transitions from 202 ***
+T=0: 202->202
+*** transitions from 202 ***
+T=0: 202->212
+*** transitions from 202 ***
+T=0: 202->197
+*** transitions from 202 ***
+T=0: 202->202
+*** transitions from 202 ***
+T=0: 202->129
+*** transitions from 43 ***
+T=0: 43->43
+*** transitions from 43 ***
+T=0: 43->43
+*** transitions from 43 ***
+T=0: 43->43
+*** transitions from 43 ***
+T=0: 43->43
+*** transitions from 43 ***
+T=0: 43->43
+*** transitions from 43 ***
+T=0: 43->53
+*** transitions from 43 ***
+T=0: 43->17
+*** transitions from 43 ***
+T=0: 43->43
+*** transitions from 205 ***
+T=0: 205->51
+*** transitions from 205 ***
+T=0: 205->205
+*** transitions from 205 ***
+T=0: 205->205
+*** transitions from 205 ***
+T=0: 205->205
+*** transitions from 205 ***
+T=0: 205->205
+*** transitions from 205 ***
+T=0: 205->205
+*** transitions from 205 ***
+T=0: 205->205
+*** transitions from 205 ***
+T=0: 205->43
+*** transitions from 17 ***
+T=0: 17->17
+*** transitions from 17 ***
+T=0: 17->17
+*** transitions from 17 ***
+T=0: 17->17
+*** transitions from 17 ***
+T=0: 17->17
+*** transitions from 17 ***
+T=0: 17->17
+*** transitions from 17 ***
+T=0: 17->9
+*** transitions from 17 ***
+T=0: 17->17
+*** transitions from 17 ***
+T=0: 17->17
+*** transitions from 208 ***
+T=0: 208->45
+*** transitions from 208 ***
+T=0: 208->208
+*** transitions from 208 ***
+T=0: 208->208
+*** transitions from 208 ***
+T=0: 208->208
+*** transitions from 208 ***
+T=0: 208->208
+*** transitions from 208 ***
+T=0: 208->208
+*** transitions from 208 ***
+T=0: 208->208
+*** transitions from 208 ***
+T=0: 208->17
+*** transitions from 53 ***
+T=0: 53->54
+*** transitions from 53 ***
+T=0: 53->53
+*** transitions from 53 ***
+T=0: 53->53
+*** transitions from 53 ***
+T=0: 53->53
+*** transitions from 53 ***
+T=0: 53->53
+*** transitions from 53 ***
+T=0: 53->53
+*** transitions from 53 ***
+T=0: 53->9
+*** transitions from 53 ***
+T=0: 53->53
+*** transitions from 210 ***
+T=0: 210->55
+*** transitions from 210 ***
+T=0: 210->210
+*** transitions from 210 ***
+T=0: 210->210
+*** transitions from 210 ***
+T=0: 210->210
+*** transitions from 210 ***
+T=0: 210->210
+*** transitions from 210 ***
+T=0: 210->205
+*** transitions from 210 ***
+T=0: 210->210
+*** transitions from 210 ***
+T=0: 210->53
+*** transitions from 9 ***
+T=0: 9->10
+*** transitions from 9 ***
+T=0: 9->9
+*** transitions from 9 ***
+T=0: 9->9
+*** transitions from 9 ***
+T=0: 9->9
+*** transitions from 9 ***
+T=0: 9->9
+*** transitions from 9 ***
+T=0: 9->9
+*** transitions from 9 ***
+T=0: 9->9
+*** transitions from 9 ***
+T=0: 9->9
+*** transitions from 212 ***
+T=0: 212->25
+*** transitions from 212 ***
+T=0: 212->212
+*** transitions from 212 ***
+T=0: 212->212
+*** transitions from 212 ***
+T=0: 212->212
+*** transitions from 212 ***
+T=0: 212->212
+*** transitions from 212 ***
+T=0: 212->208
+*** transitions from 212 ***
+T=0: 212->212
+*** transitions from 212 ***
+T=0: 212->9
+*** transitions from 14 ***
+T=0: 14->14
+*** transitions from 14 ***
+T=0: 14->14
+*** transitions from 14 ***
+T=0: 14->14
+*** transitions from 14 ***
+T=0: 14->30
+*** transitions from 14 ***
+T=0: 14->14
+*** transitions from 14 ***
+T=0: 14->14
+*** transitions from 14 ***
+T=0: 14->15
+*** transitions from 14 ***
+T=0: 14->14
+*** transitions from 185 ***
+T=0: 185->5
+*** transitions from 185 ***
+T=0: 185->185
+*** transitions from 185 ***
+T=0: 185->185
+*** transitions from 185 ***
+T=0: 185->194
+*** transitions from 185 ***
+T=0: 185->185
+*** transitions from 185 ***
+T=0: 185->185
+*** transitions from 185 ***
+T=0: 185->185
+*** transitions from 185 ***
+T=0: 185->14
+*** transitions from 15 ***
+T=0: 15->15
+*** transitions from 15 ***
+T=0: 15->15
+*** transitions from 15 ***
+T=0: 15->15
+*** transitions from 15 ***
+T=0: 15->16
+*** transitions from 15 ***
+T=0: 15->15
+*** transitions from 15 ***
+T=0: 15->15
+*** transitions from 15 ***
+T=0: 15->15
+*** transitions from 15 ***
+T=0: 15->15
+*** transitions from 227 ***
+T=0: 227->133
+*** transitions from 227 ***
+T=0: 227->186
+*** transitions from 227 ***
+T=0: 227->227
+*** transitions from 227 ***
+T=0: 227->228
+*** transitions from 227 ***
+T=0: 227->227
+*** transitions from 227 ***
+T=0: 227->227
+*** transitions from 227 ***
+T=0: 227->227
+*** transitions from 227 ***
+T=0: 227->15
+*** transitions from 135 ***
+T=0: 135->135
+*** transitions from 135 ***
+T=0: 135->135
+*** transitions from 135 ***
+T=0: 135->135
+*** transitions from 135 ***
+T=0: 135->158
+*** transitions from 135 ***
+T=0: 135->135
+*** transitions from 135 ***
+T=0: 135->14
+*** transitions from 135 ***
+T=0: 135->136
+*** transitions from 135 ***
+T=0: 135->135
+*** transitions from 188 ***
+T=0: 188->79
+*** transitions from 188 ***
+T=0: 188->188
+*** transitions from 188 ***
+T=0: 188->188
+*** transitions from 188 ***
+T=0: 188->199
+*** transitions from 188 ***
+T=0: 188->188
+*** transitions from 188 ***
+T=0: 188->185
+*** transitions from 188 ***
+T=0: 188->188
+*** transitions from 188 ***
+T=0: 188->135
+*** transitions from 136 ***
+T=0: 136->136
+*** transitions from 136 ***
+T=0: 136->136
+*** transitions from 136 ***
+T=0: 136->136
+*** transitions from 136 ***
+T=0: 136->159
+*** transitions from 136 ***
+T=0: 136->136
+*** transitions from 136 ***
+T=0: 136->15
+*** transitions from 136 ***
+T=0: 136->136
+*** transitions from 136 ***
+T=0: 136->136
+*** transitions from 229 ***
+T=0: 229->137
+*** transitions from 229 ***
+T=0: 229->2
+*** transitions from 229 ***
+T=0: 229->229
+*** transitions from 229 ***
+T=0: 229->230
+*** transitions from 229 ***
+T=0: 229->229
+*** transitions from 229 ***
+T=0: 229->227
+*** transitions from 229 ***
+T=0: 229->229
+*** transitions from 229 ***
+T=0: 229->136
+*** transitions from 140 ***
+T=0: 140->140
+*** transitions from 140 ***
+T=0: 140->84
+*** transitions from 140 ***
+T=0: 140->140
+*** transitions from 140 ***
+T=0: 140->161
+*** transitions from 140 ***
+T=0: 140->14
+*** transitions from 140 ***
+T=0: 140->231
+*** transitions from 140 ***
+T=0: 140->146
+*** transitions from 140 ***
+T=0: 140->140
+*** transitions from 232 ***
+T=0: 232->144
+*** transitions from 232 ***
+T=0: 232->190
+*** transitions from 232 ***
+T=0: 232->232
+*** transitions from 232 ***
+T=0: 232->233
+*** transitions from 232 ***
+T=0: 232->185
+*** transitions from 232 ***
+T=0: 232->232
+*** transitions from 232 ***
+T=0: 232->232
+*** transitions from 232 ***
+T=0: 232->140
+*** transitions from 146 ***
+T=0: 146->146
+*** transitions from 146 ***
+T=0: 146->67
+*** transitions from 146 ***
+T=0: 146->146
+*** transitions from 146 ***
+T=0: 146->164
+*** transitions from 146 ***
+T=0: 146->15
+*** transitions from 146 ***
+T=0: 146->234
+*** transitions from 146 ***
+T=0: 146->146
+*** transitions from 146 ***
+T=0: 146->146
+*** transitions from 235 ***
+T=0: 235->149
+*** transitions from 235 ***
+T=0: 235->191
+*** transitions from 235 ***
+T=0: 235->235
+*** transitions from 235 ***
+T=0: 235->236
+*** transitions from 235 ***
+T=0: 235->227
+*** transitions from 235 ***
+T=0: 235->235
+*** transitions from 235 ***
+T=0: 235->235
+*** transitions from 235 ***
+T=0: 235->146
+*** transitions from 231 ***
+T=0: 231->142
+*** transitions from 231 ***
+T=0: 231->189
+*** transitions from 231 ***
+T=0: 231->231
+*** transitions from 231 ***
+T=0: 231->237
+*** transitions from 231 ***
+T=0: 231->231
+*** transitions from 231 ***
+T=0: 231->231
+*** transitions from 231 ***
+T=0: 231->234
+*** transitions from 231 ***
+T=0: 231->231
+*** transitions from 238 ***
+T=0: 238->152
+*** transitions from 238 ***
+T=0: 238->192
+*** transitions from 238 ***
+T=0: 238->238
+*** transitions from 238 ***
+T=0: 238->239
+*** transitions from 238 ***
+T=0: 238->238
+*** transitions from 238 ***
+T=0: 238->232
+*** transitions from 238 ***
+T=0: 238->238
+*** transitions from 238 ***
+T=0: 238->231
+*** transitions from 234 ***
+T=0: 234->148
+*** transitions from 234 ***
+T=0: 234->68
+*** transitions from 234 ***
+T=0: 234->234
+*** transitions from 234 ***
+T=0: 234->240
+*** transitions from 234 ***
+T=0: 234->234
+*** transitions from 234 ***
+T=0: 234->234
+*** transitions from 234 ***
+T=0: 234->234
+*** transitions from 234 ***
+T=0: 234->234
+*** transitions from 241 ***
+T=0: 241->155
+*** transitions from 241 ***
+T=0: 241->69
+*** transitions from 241 ***
+T=0: 241->241
+*** transitions from 241 ***
+T=0: 241->242
+*** transitions from 241 ***
+T=0: 241->241
+*** transitions from 241 ***
+T=0: 241->235
+*** transitions from 241 ***
+T=0: 241->241
+*** transitions from 241 ***
+T=0: 241->234
+*** transitions from 30 ***
+T=0: 30->30
+*** transitions from 30 ***
+T=0: 30->30
+*** transitions from 30 ***
+T=0: 30->31
+*** transitions from 30 ***
+T=0: 30->30
+*** transitions from 30 ***
+T=0: 30->30
+*** transitions from 30 ***
+T=0: 30->30
+*** transitions from 30 ***
+T=0: 30->16
+*** transitions from 30 ***
+T=0: 30->30
+*** transitions from 194 ***
+T=0: 194->20
+*** transitions from 194 ***
+T=0: 194->194
+*** transitions from 194 ***
+T=0: 194->225
+*** transitions from 194 ***
+T=0: 194->194
+*** transitions from 194 ***
+T=0: 194->194
+*** transitions from 194 ***
+T=0: 194->194
+*** transitions from 194 ***
+T=0: 194->194
+*** transitions from 194 ***
+T=0: 194->30
+*** transitions from 16 ***
+T=0: 16->16
+*** transitions from 16 ***
+T=0: 16->16
+*** transitions from 16 ***
+T=0: 16->7
+*** transitions from 16 ***
+T=0: 16->16
+*** transitions from 16 ***
+T=0: 16->16
+*** transitions from 16 ***
+T=0: 16->16
+*** transitions from 16 ***
+T=0: 16->16
+*** transitions from 16 ***
+T=0: 16->16
+*** transitions from 228 ***
+T=0: 228->134
+*** transitions from 228 ***
+T=0: 228->196
+*** transitions from 228 ***
+T=0: 228->243
+*** transitions from 228 ***
+T=0: 228->228
+*** transitions from 228 ***
+T=0: 228->228
+*** transitions from 228 ***
+T=0: 228->228
+*** transitions from 228 ***
+T=0: 228->228
+*** transitions from 228 ***
+T=0: 228->16
+*** transitions from 158 ***
+T=0: 158->158
+*** transitions from 158 ***
+T=0: 158->158
+*** transitions from 158 ***
+T=0: 158->182
+*** transitions from 158 ***
+T=0: 158->158
+*** transitions from 158 ***
+T=0: 158->158
+*** transitions from 158 ***
+T=0: 158->30
+*** transitions from 158 ***
+T=0: 158->159
+*** transitions from 158 ***
+T=0: 158->158
+*** transitions from 199 ***
+T=0: 199->95
+*** transitions from 199 ***
+T=0: 199->199
+*** transitions from 199 ***
+T=0: 199->226
+*** transitions from 199 ***
+T=0: 199->199
+*** transitions from 199 ***
+T=0: 199->199
+*** transitions from 199 ***
+T=0: 199->194
+*** transitions from 199 ***
+T=0: 199->199
+*** transitions from 199 ***
+T=0: 199->158
+*** transitions from 159 ***
+T=0: 159->159
+*** transitions from 159 ***
+T=0: 159->159
+*** transitions from 159 ***
+T=0: 159->183
+*** transitions from 159 ***
+T=0: 159->159
+*** transitions from 159 ***
+T=0: 159->159
+*** transitions from 159 ***
+T=0: 159->16
+*** transitions from 159 ***
+T=0: 159->159
+*** transitions from 159 ***
+T=0: 159->159
+*** transitions from 230 ***
+T=0: 230->138
+*** transitions from 230 ***
+T=0: 230->201
+*** transitions from 230 ***
+T=0: 230->244
+*** transitions from 230 ***
+T=0: 230->230
+*** transitions from 230 ***
+T=0: 230->230
+*** transitions from 230 ***
+T=0: 230->228
+*** transitions from 230 ***
+T=0: 230->230
+*** transitions from 230 ***
+T=0: 230->159
+*** transitions from 161 ***
+T=0: 161->161
+*** transitions from 161 ***
+T=0: 161->100
+*** transitions from 161 ***
+T=0: 161->32
+*** transitions from 161 ***
+T=0: 161->161
+*** transitions from 161 ***
+T=0: 161->30
+*** transitions from 161 ***
+T=0: 161->237
+*** transitions from 161 ***
+T=0: 161->164
+*** transitions from 161 ***
+T=0: 161->161
+*** transitions from 233 ***
+T=0: 233->145
+*** transitions from 233 ***
+T=0: 233->204
+*** transitions from 233 ***
+T=0: 233->245
+*** transitions from 233 ***
+T=0: 233->233
+*** transitions from 233 ***
+T=0: 233->194
+*** transitions from 233 ***
+T=0: 233->233
+*** transitions from 233 ***
+T=0: 233->233
+*** transitions from 233 ***
+T=0: 233->161
+*** transitions from 164 ***
+T=0: 164->164
+*** transitions from 164 ***
+T=0: 164->102
+*** transitions from 164 ***
+T=0: 164->8
+*** transitions from 164 ***
+T=0: 164->164
+*** transitions from 164 ***
+T=0: 164->16
+*** transitions from 164 ***
+T=0: 164->240
+*** transitions from 164 ***
+T=0: 164->164
+*** transitions from 164 ***
+T=0: 164->164
+*** transitions from 236 ***
+T=0: 236->150
+*** transitions from 236 ***
+T=0: 236->207
+*** transitions from 236 ***
+T=0: 236->246
+*** transitions from 236 ***
+T=0: 236->236
+*** transitions from 236 ***
+T=0: 236->228
+*** transitions from 236 ***
+T=0: 236->236
+*** transitions from 236 ***
+T=0: 236->236
+*** transitions from 236 ***
+T=0: 236->164
+*** transitions from 237 ***
+T=0: 237->151
+*** transitions from 237 ***
+T=0: 237->203
+*** transitions from 237 ***
+T=0: 237->52
+*** transitions from 237 ***
+T=0: 237->237
+*** transitions from 237 ***
+T=0: 237->237
+*** transitions from 237 ***
+T=0: 237->237
+*** transitions from 237 ***
+T=0: 237->240
+*** transitions from 237 ***
+T=0: 237->237
+*** transitions from 239 ***
+T=0: 239->153
+*** transitions from 239 ***
+T=0: 239->209
+*** transitions from 239 ***
+T=0: 239->247
+*** transitions from 239 ***
+T=0: 239->239
+*** transitions from 239 ***
+T=0: 239->239
+*** transitions from 239 ***
+T=0: 239->233
+*** transitions from 239 ***
+T=0: 239->239
+*** transitions from 239 ***
+T=0: 239->237
+*** transitions from 240 ***
+T=0: 240->154
+*** transitions from 240 ***
+T=0: 240->206
+*** transitions from 240 ***
+T=0: 240->23
+*** transitions from 240 ***
+T=0: 240->240
+*** transitions from 240 ***
+T=0: 240->240
+*** transitions from 240 ***
+T=0: 240->240
+*** transitions from 240 ***
+T=0: 240->240
+*** transitions from 240 ***
+T=0: 240->240
+*** transitions from 242 ***
+T=0: 242->156
+*** transitions from 242 ***
+T=0: 242->211
+*** transitions from 242 ***
+T=0: 242->0
+*** transitions from 242 ***
+T=0: 242->242
+*** transitions from 242 ***
+T=0: 242->242
+*** transitions from 242 ***
+T=0: 242->236
+*** transitions from 242 ***
+T=0: 242->242
+*** transitions from 242 ***
+T=0: 242->240
+*** transitions from 61 ***
+T=0: 61->61
+*** transitions from 61 ***
+T=0: 61->61
+*** transitions from 61 ***
+T=0: 61->14
+*** transitions from 61 ***
+T=0: 61->31
+*** transitions from 61 ***
+T=0: 61->64
+*** transitions from 61 ***
+T=0: 61->61
+*** transitions from 61 ***
+T=0: 61->169
+*** transitions from 61 ***
+T=0: 61->61
+*** transitions from 214 ***
+T=0: 214->48
+*** transitions from 214 ***
+T=0: 214->214
+*** transitions from 214 ***
+T=0: 214->185
+*** transitions from 214 ***
+T=0: 214->225
+*** transitions from 214 ***
+T=0: 214->248
+*** transitions from 214 ***
+T=0: 214->214
+*** transitions from 214 ***
+T=0: 214->214
+*** transitions from 214 ***
+T=0: 214->61
+*** transitions from 169 ***
+T=0: 169->169
+*** transitions from 169 ***
+T=0: 169->169
+*** transitions from 169 ***
+T=0: 169->15
+*** transitions from 169 ***
+T=0: 169->7
+*** transitions from 169 ***
+T=0: 169->65
+*** transitions from 169 ***
+T=0: 169->169
+*** transitions from 169 ***
+T=0: 169->169
+*** transitions from 169 ***
+T=0: 169->169
+*** transitions from 249 ***
+T=0: 249->170
+*** transitions from 249 ***
+T=0: 249->216
+*** transitions from 249 ***
+T=0: 249->227
+*** transitions from 249 ***
+T=0: 249->243
+*** transitions from 249 ***
+T=0: 249->250
+*** transitions from 249 ***
+T=0: 249->249
+*** transitions from 249 ***
+T=0: 249->249
+*** transitions from 249 ***
+T=0: 249->169
+*** transitions from 171 ***
+T=0: 171->171
+*** transitions from 171 ***
+T=0: 171->171
+*** transitions from 171 ***
+T=0: 171->135
+*** transitions from 171 ***
+T=0: 171->182
+*** transitions from 171 ***
+T=0: 171->251
+*** transitions from 171 ***
+T=0: 171->61
+*** transitions from 171 ***
+T=0: 171->172
+*** transitions from 171 ***
+T=0: 171->171
+*** transitions from 220 ***
+T=0: 220->112
+*** transitions from 220 ***
+T=0: 220->220
+*** transitions from 220 ***
+T=0: 220->188
+*** transitions from 220 ***
+T=0: 220->226
+*** transitions from 220 ***
+T=0: 220->252
+*** transitions from 220 ***
+T=0: 220->214
+*** transitions from 220 ***
+T=0: 220->220
+*** transitions from 220 ***
+T=0: 220->171
+*** transitions from 172 ***
+T=0: 172->172
+*** transitions from 172 ***
+T=0: 172->172
+*** transitions from 172 ***
+T=0: 172->136
+*** transitions from 172 ***
+T=0: 172->183
+*** transitions from 172 ***
+T=0: 172->253
+*** transitions from 172 ***
+T=0: 172->169
+*** transitions from 172 ***
+T=0: 172->172
+*** transitions from 172 ***
+T=0: 172->172
+*** transitions from 254 ***
+T=0: 254->173
+*** transitions from 254 ***
+T=0: 254->223
+*** transitions from 254 ***
+T=0: 254->229
+*** transitions from 254 ***
+T=0: 254->244
+*** transitions from 254 ***
+T=0: 254->255
+*** transitions from 254 ***
+T=0: 254->249
+*** transitions from 254 ***
+T=0: 254->254
+*** transitions from 254 ***
+T=0: 254->172
+*** transitions from 64 ***
+T=0: 64->64
+*** transitions from 64 ***
+T=0: 64->117
+*** transitions from 64 ***
+T=0: 64->140
+*** transitions from 64 ***
+T=0: 64->32
+*** transitions from 64 ***
+T=0: 64->64
+*** transitions from 64 ***
+T=0: 64->251
+*** transitions from 64 ***
+T=0: 64->65
+*** transitions from 64 ***
+T=0: 64->64
+*** transitions from 248 ***
+T=0: 248->177
+*** transitions from 248 ***
+T=0: 248->215
+*** transitions from 248 ***
+T=0: 248->232
+*** transitions from 248 ***
+T=0: 248->245
+*** transitions from 248 ***
+T=0: 248->248
+*** transitions from 248 ***
+T=0: 248->248
+*** transitions from 248 ***
+T=0: 248->248
+*** transitions from 248 ***
+T=0: 248->64
+*** transitions from 65 ***
+T=0: 65->65
+*** transitions from 65 ***
+T=0: 65->66
+*** transitions from 65 ***
+T=0: 65->146
+*** transitions from 65 ***
+T=0: 65->8
+*** transitions from 65 ***
+T=0: 65->65
+*** transitions from 65 ***
+T=0: 65->253
+*** transitions from 65 ***
+T=0: 65->65
+*** transitions from 65 ***
+T=0: 65->65
+*** transitions from 250 ***
+T=0: 250->179
+*** transitions from 250 ***
+T=0: 250->217
+*** transitions from 250 ***
+T=0: 250->235
+*** transitions from 250 ***
+T=0: 250->246
+*** transitions from 250 ***
+T=0: 250->250
+*** transitions from 250 ***
+T=0: 250->250
+*** transitions from 250 ***
+T=0: 250->250
+*** transitions from 250 ***
+T=0: 250->65
+*** transitions from 251 ***
+T=0: 251->175
+*** transitions from 251 ***
+T=0: 251->218
+*** transitions from 251 ***
+T=0: 251->231
+*** transitions from 251 ***
+T=0: 251->52
+*** transitions from 251 ***
+T=0: 251->251
+*** transitions from 251 ***
+T=0: 251->251
+*** transitions from 251 ***
+T=0: 251->253
+*** transitions from 251 ***
+T=0: 251->251
+*** transitions from 252 ***
+T=0: 252->180
+*** transitions from 252 ***
+T=0: 252->221
+*** transitions from 252 ***
+T=0: 252->238
+*** transitions from 252 ***
+T=0: 252->247
+*** transitions from 252 ***
+T=0: 252->252
+*** transitions from 252 ***
+T=0: 252->248
+*** transitions from 252 ***
+T=0: 252->252
+*** transitions from 252 ***
+T=0: 252->251
+*** transitions from 253 ***
+T=0: 253->178
+*** transitions from 253 ***
+T=0: 253->222
+*** transitions from 253 ***
+T=0: 253->234
+*** transitions from 253 ***
+T=0: 253->23
+*** transitions from 253 ***
+T=0: 253->253
+*** transitions from 253 ***
+T=0: 253->253
+*** transitions from 253 ***
+T=0: 253->253
+*** transitions from 253 ***
+T=0: 253->253
+*** transitions from 255 ***
+T=0: 255->181
+*** transitions from 255 ***
+T=0: 255->224
+*** transitions from 255 ***
+T=0: 255->241
+*** transitions from 255 ***
+T=0: 255->0
+*** transitions from 255 ***
+T=0: 255->255
+*** transitions from 255 ***
+T=0: 255->250
+*** transitions from 255 ***
+T=0: 255->255
+*** transitions from 255 ***
+T=0: 255->253
+*** transitions from 31 ***
+T=0: 31->31
+*** transitions from 31 ***
+T=0: 31->31
+*** transitions from 31 ***
+T=0: 31->31
+*** transitions from 31 ***
+T=0: 31->31
+*** transitions from 31 ***
+T=0: 31->32
+*** transitions from 31 ***
+T=0: 31->31
+*** transitions from 31 ***
+T=0: 31->7
+*** transitions from 31 ***
+T=0: 31->31
+*** transitions from 225 ***
+T=0: 225->35
+*** transitions from 225 ***
+T=0: 225->225
+*** transitions from 225 ***
+T=0: 225->225
+*** transitions from 225 ***
+T=0: 225->225
+*** transitions from 225 ***
+T=0: 225->245
+*** transitions from 225 ***
+T=0: 225->225
+*** transitions from 225 ***
+T=0: 225->225
+*** transitions from 225 ***
+T=0: 225->31
+*** transitions from 7 ***
+T=0: 7->7
+*** transitions from 7 ***
+T=0: 7->7
+*** transitions from 7 ***
+T=0: 7->7
+*** transitions from 7 ***
+T=0: 7->7
+*** transitions from 7 ***
+T=0: 7->8
+*** transitions from 7 ***
+T=0: 7->7
+*** transitions from 7 ***
+T=0: 7->7
+*** transitions from 7 ***
+T=0: 7->7
+*** transitions from 243 ***
+T=0: 243->157
+*** transitions from 243 ***
+T=0: 243->197
+*** transitions from 243 ***
+T=0: 243->243
+*** transitions from 243 ***
+T=0: 243->243
+*** transitions from 243 ***
+T=0: 243->246
+*** transitions from 243 ***
+T=0: 243->243
+*** transitions from 243 ***
+T=0: 243->243
+*** transitions from 243 ***
+T=0: 243->7
+*** transitions from 182 ***
+T=0: 182->182
+*** transitions from 182 ***
+T=0: 182->182
+*** transitions from 182 ***
+T=0: 182->182
+*** transitions from 182 ***
+T=0: 182->182
+*** transitions from 182 ***
+T=0: 182->52
+*** transitions from 182 ***
+T=0: 182->31
+*** transitions from 182 ***
+T=0: 182->183
+*** transitions from 182 ***
+T=0: 182->182
+*** transitions from 226 ***
+T=0: 226->128
+*** transitions from 226 ***
+T=0: 226->226
+*** transitions from 226 ***
+T=0: 226->226
+*** transitions from 226 ***
+T=0: 226->226
+*** transitions from 226 ***
+T=0: 226->247
+*** transitions from 226 ***
+T=0: 226->225
+*** transitions from 226 ***
+T=0: 226->226
+*** transitions from 226 ***
+T=0: 226->182
+*** transitions from 183 ***
+T=0: 183->183
+*** transitions from 183 ***
+T=0: 183->183
+*** transitions from 183 ***
+T=0: 183->183
+*** transitions from 183 ***
+T=0: 183->183
+*** transitions from 183 ***
+T=0: 183->23
+*** transitions from 183 ***
+T=0: 183->7
+*** transitions from 183 ***
+T=0: 183->183
+*** transitions from 183 ***
+T=0: 183->183
+*** transitions from 244 ***
+T=0: 244->160
+*** transitions from 244 ***
+T=0: 244->202
+*** transitions from 244 ***
+T=0: 244->244
+*** transitions from 244 ***
+T=0: 244->244
+*** transitions from 244 ***
+T=0: 244->0
+*** transitions from 244 ***
+T=0: 244->243
+*** transitions from 244 ***
+T=0: 244->244
+*** transitions from 244 ***
+T=0: 244->183
+*** transitions from 32 ***
+T=0: 32->32
+*** transitions from 32 ***
+T=0: 32->43
+*** transitions from 32 ***
+T=0: 32->32
+*** transitions from 32 ***
+T=0: 32->32
+*** transitions from 32 ***
+T=0: 32->32
+*** transitions from 32 ***
+T=0: 32->52
+*** transitions from 32 ***
+T=0: 32->8
+*** transitions from 32 ***
+T=0: 32->32
+*** transitions from 245 ***
+T=0: 245->163
+*** transitions from 245 ***
+T=0: 245->205
+*** transitions from 245 ***
+T=0: 245->245
+*** transitions from 245 ***
+T=0: 245->245
+*** transitions from 245 ***
+T=0: 245->245
+*** transitions from 245 ***
+T=0: 245->245
+*** transitions from 245 ***
+T=0: 245->245
+*** transitions from 245 ***
+T=0: 245->32
+*** transitions from 8 ***
+T=0: 8->8
+*** transitions from 8 ***
+T=0: 8->17
+*** transitions from 8 ***
+T=0: 8->8
+*** transitions from 8 ***
+T=0: 8->8
+*** transitions from 8 ***
+T=0: 8->8
+*** transitions from 8 ***
+T=0: 8->23
+*** transitions from 8 ***
+T=0: 8->8
+*** transitions from 8 ***
+T=0: 8->8
+*** transitions from 246 ***
+T=0: 246->166
+*** transitions from 246 ***
+T=0: 246->208
+*** transitions from 246 ***
+T=0: 246->246
+*** transitions from 246 ***
+T=0: 246->246
+*** transitions from 246 ***
+T=0: 246->246
+*** transitions from 246 ***
+T=0: 246->246
+*** transitions from 246 ***
+T=0: 246->246
+*** transitions from 246 ***
+T=0: 246->8
+*** transitions from 52 ***
+T=0: 52->60
+*** transitions from 52 ***
+T=0: 52->53
+*** transitions from 52 ***
+T=0: 52->52
+*** transitions from 52 ***
+T=0: 52->52
+*** transitions from 52 ***
+T=0: 52->52
+*** transitions from 52 ***
+T=0: 52->52
+*** transitions from 52 ***
+T=0: 52->23
+*** transitions from 52 ***
+T=0: 52->52
+*** transitions from 247 ***
+T=0: 247->167
+*** transitions from 247 ***
+T=0: 247->210
+*** transitions from 247 ***
+T=0: 247->247
+*** transitions from 247 ***
+T=0: 247->247
+*** transitions from 247 ***
+T=0: 247->247
+*** transitions from 247 ***
+T=0: 247->245
+*** transitions from 247 ***
+T=0: 247->247
+*** transitions from 247 ***
+T=0: 247->52
+*** transitions from 23 ***
+T=0: 23->24
+*** transitions from 23 ***
+T=0: 23->9
+*** transitions from 23 ***
+T=0: 23->23
+*** transitions from 23 ***
+T=0: 23->23
+*** transitions from 23 ***
+T=0: 23->23
+*** transitions from 23 ***
+T=0: 23->23
+*** transitions from 23 ***
+T=0: 23->23
+*** transitions from 23 ***
+T=0: 23->23
+*** transitions from 0 ***
+T=0: 0->168
+*** transitions from 0 ***
+T=0: 0->212
+*** transitions from 0 ***
+T=0: 0->0
+*** transitions from 0 ***
+T=0: 0->0
+*** transitions from 0 ***
+T=0: 0->0
+*** transitions from 0 ***
+T=0: 0->246
+*** transitions from 0 ***
+T=0: 0->0
+*** transitions from 0 ***
+T=0: 0->23

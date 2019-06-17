@@ -1,0 +1,9 @@
+#BOOLEAN RULES
+Cdc20*= pAPC and (not Cdh1)
+Cdc25C*= CyclinA or (CyclinB and Cdk1)
+Cdh1*= (not CyclinA) and (not (CyclinB and Cdk1))
+Cdk1*= Cdc25C and (CyclinA or CyclinB)
+CyclinA*= (not (pAPC or (Cdh1 and UbcH10) ) )
+CyclinB*= not (pAPC and Cdc20) and (not Cdh1)
+pAPC*= (pAPC and Cdc20) or (CyclinB and Cdk1)
+UbcH10*= (not Cdh1) or (UbcH10 and (Cdc20 or CyclinA or CyclinB))

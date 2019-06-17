@@ -1,0 +1,7 @@
+#BOOLEAN RULES
+n0n*= n2n or n5n
+n1n*= n0n or (not n5n)
+n2n*= (n3n and n5n) or ((not n3n) and (not n5n))
+n3n*= n4n and n5n
+n4n*= (n0n and n2n) or ((not n0n) and (not n2n))
+n5n*= n1n or n4n

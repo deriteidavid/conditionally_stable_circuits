@@ -1,0 +1,4 @@
+CyclinB	CyclinA	Cdc25A	UbcH10	Cdc25C	Cdc20	Cdk1	pAPC	Mad2	Cdh1	Wee1	
+0	0	0	0	0	0	0	0	0	1	1	
+1	0	0	1	1	0	1	1	1	0	0	
+1	1	1	1	1	0	0	0	0	0	1	
