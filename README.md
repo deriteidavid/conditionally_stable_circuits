@@ -1,5 +1,5 @@
 # conditionally_stable_circuits
-This is the supporting notebook and code to the paper titled "A feedback loop of conditionally stable circuits drives the cell cycle from checkpoint to checkpoint", submitted to Scientific Reports and available on bioRxiv under https://www.biorxiv.org/content/10.1101/654863v1
+This is the supporting notebook and code to the paper titled **A feedback loop of conditionally stable circuits drives the cell cycle from checkpoint to checkpoint**, submitted to Scientific Reports and available on bioRxiv under https://www.biorxiv.org/content/10.1101/654863v1
 
 # Supporting Information - Jupyter Notebook
 
@@ -19,11 +19,11 @@ We perform logic-based network analysis on a model of the mammalian cell cycle. 
 
 ### The notebook
 
-The **SI_notebook.ipynb** Jupyter Notebook runs Python 2 and contains the steps and procedures to reproduce the key findings of our paper (under review, also availale on bioRxiv: https://www.biorxiv.org/content/10.1101/654863v1).
+The **Supplementary_notebook.ipynb** Jupyter Notebook runs Python 2.7 and contains the steps and procedures to reproduce the key findings of our paper (under review, also availale on bioRxiv: https://www.biorxiv.org/content/10.1101/654863v1).
 The notebook doesn't reproduce *all* the results published in the paper, however it provides the tools for anyone interested in doing similar studies, mostly in form of functions.
 We will keep updating it with new implementations as soon as we have them.
 
-The Boolean models and supporting files are included in the repository. 
+The Boolean models and supporting files are included in the repository.
 
 The necessary python packages to run the notebook:<br>
 numpy, matplotlib, seaborn (optional)<br>
