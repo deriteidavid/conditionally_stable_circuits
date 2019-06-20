@@ -313,3 +313,106 @@ def are_subsets_consistent(a,b):
         if _not(i) in b_all:
             return False
     return True
+
+def expanded_network_consistent_simple_cycles(G):
+    """Find consistent simple cycles (elementary circuits) of an expanded network.
+
+    
+    An simple cycle, or elementary circuit, is a closed path where no
+    node appears twice, except that the first and last node are the same.
+    Two elementary circuits are distinct if they are not cyclic permutations
+    of each other.
+    A consistent cycle is one that doesn't contain any contradicting virtual or composite nodes
+    
+
+    This is a nonrecursive, iterator/generator version of Johnson's
+    algorithm [1]_.  There may be better algorithms for some cases [2]_ [3]_.
+
+    Parameters
+    ----------
+    G : NetworkX DiGraph
+       A directed graph 
+
+    Returns
+    -------
+    cycle_generator: generator
+       A generator that produces elementary cycles of the graph.  Each cycle is
+       a list of nodes with the first and last nodes being the same.
+
+
+    Notes
+    -----
+    The implementation is a modified version of [1] bades on the NetworkX implementaiton:
+    https://networkx.github.io/documentation/networkx-1.9/_modules/networkx/algorithms/cycles.html#simple_cycles
+
+    The time complexity is O((n+e)(c+1)) for n nodes, e edges and c
+    consistent elementary circuits.
+
+
+    References
+    ----------
+    .. [1] Finding all the elementary circuits of a directed graph.
+       D. B. Johnson, SIAM Journal on Computing 4, no. 1, 77-84, 1975.
+       http://dx.doi.org/10.1137/0204007
+
+    """
+    import cool_bool_tools as cbt
+    from collections import defaultdict
+    def _unblock(thisnode,blocked,B):
+        stack=set([thisnode])
+        while stack:
+            node=stack.pop()
+            if node in blocked:
+                blocked.remove(node)
+                stack.update(B[node])
+                B[node].clear()
+
+    # Johnson's algorithm requires some ordering of the nodes.
+    # We assign the arbitrary ordering given by the strongly connected comps
+    # There is no need to track the ordering as each node removed as processed.
+    subG = type(G)(G.edges()) # save the actual graph so we can mutate it here
+                              # We only take the edges because we do not want to
+                              # copy edge and node attributes here.
+    sccs = list(nx.strongly_connected_components(subG))
+    while sccs:
+        scc=sccs.pop()
+        # order of scc determines ordering of nodes
+        startnode = scc.pop()
+        # Processing node runs "circuit" routine from recursive version
+        path=[startnode]
+        blocked = set() # vertex: blocked from search?
+        closed = set() # nodes involved in a cycle
+        blocked.add(startnode)
+        B=defaultdict(set) # graph portions that yield no elementary circuit
+        stack=[ (startnode,list(subG[startnode])) ]  # subG gives component nbrs
+        while stack:
+            thisnode,nbrs = stack[-1]
+            if nbrs:
+                nextnode = nbrs.pop()
+#                    print thisnode,nbrs,":",nextnode,blocked,B,path,stack,startnode
+#                    f=raw_input("pause")
+                if nextnode == startnode:
+                    yield path[:]
+                    closed.update(path)
+#                        print "Found a cycle",path,closed
+                elif nextnode not in blocked and cbt.are_subsets_consistent(path,[nextnode]):
+                    path.append(nextnode)
+                    stack.append( (nextnode,list(subG[nextnode])) )
+                    closed.discard(nextnode)
+                    blocked.add(nextnode)
+                    continue
+            # done with nextnode... look for more neighbors
+            if not nbrs:  # no more nbrs
+                if thisnode in closed:
+                    _unblock(thisnode,blocked,B)
+                else:
+                    for nbr in subG[thisnode]:
+                        if thisnode not in B[nbr]:
+                            B[nbr].add(thisnode)
+                stack.pop()
+#                assert path[-1]==thisnode
+                path.pop()
+        # done processing this node
+        subG.remove_node(startnode)
+        H=subG.subgraph(scc)  # make smaller to avoid work in SCC routine
+        sccs.extend(list(nx.strongly_connected_components(H)))
