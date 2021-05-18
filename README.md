@@ -1,6 +1,8 @@
 # conditionally_stable_circuits
 This is the supporting notebook and code to the paper titled **A feedback loop of conditionally stable circuits drives the cell cycle from checkpoint to checkpoint**, published to Scientific Reports and available under https://www.nature.com/articles/s41598-019-52725-1
 
+UPDATE 2020.05.18: The notebook is now compatible with python 3 and runs with the respective packages.
+
 # Supporting Information - Jupyter Notebook
 
 ## A feedback loop of conditionally stable circuits drives the cell cycle from checkpoint to checkpoint
