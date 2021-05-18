@@ -21,19 +21,19 @@ def merge_two_dicts(x, y):
     return z
 
 def read_rules_text(model_name):
-	'''
-	docstring
-	'''
+    '''
+    docstring
+    '''
 
 
-	rules_file='%s.txt'%model_name
-	with open(rules_file,'r') as f:
-	    rules=f.read()
-	rules=rules.replace('#BOOLEAN RULES','')
-	return rules
+    rules_file='%s.txt'%model_name
+    with open(rules_file,'r') as f:
+        rules=f.read()
+    rules=rules.replace('#BOOLEAN RULES','')
+    return rules
 
 def read_in_attractors(model_name):
-    
+
     '''docstring'''
 
     import pandas as pd
@@ -75,7 +75,7 @@ def plot_state_succession(states,state_labels=None,title=None, nodes=None, x_fon
     plt.figure(figsize=(len(nodes),steps))
     plt.imshow(state_transition, interpolation='none',cmap=cmap)
     ax = plt.gca()
-    plt.xticks(range(len(nodes)),nodes, fontsize=x_fontsize)   
+    plt.xticks(range(len(nodes)),nodes, fontsize=x_fontsize)
     if state_labels==None:
         plt.yticks(range(steps),fontsize=y_fontsize)
     else:
@@ -92,8 +92,8 @@ class TransGraph(object):
     Represents a transition graph
     """
     def __init__(self, logfile, verbose=False):
-	import networkx as nx
-        self.graph = nx.MultiDiGraph(  )         
+        import networkx as nx
+        self.graph = nx.MultiDiGraph(  )
         self.fp = open( logfile, 'wt')
         self.verbose = verbose
         self.seen = set()
@@ -102,7 +102,7 @@ class TransGraph(object):
 
     def add(self, states, times=None):
         "Adds states to the transition"
-    
+
         # generating the fingerprints and sto
         times = times or range(len(states))
         fprints = []
@@ -118,22 +118,22 @@ class TransGraph(object):
 
         for head, tail, tstamp in zip(fprints, fprints[1:], times ):
             pair = (head, tail)
-            self.fp.write('T=%s: %s->%s\n' %  (tstamp, head, tail) ) 
+            self.fp.write('T=%s: %s->%s\n' %  (tstamp, head, tail) )
             if pair not in self.seen:
                 self.graph.add_edge(head, tail)
                 self.seen.add(pair)
-        
+
     def save(self, fname, colormap={}):
         "Saves the graph as gml"
         write_gml(graph=self.graph, fname=fname, colormap=colormap)
-    
+
         self.fp.write( '*** node values ***\n' )
 
         # writes the mapping
         first = self.store.values()[0]
         header = [ 'state' ] + first.keys()
         self.fp.write( util.join(header) )
-        
+
         for fprint, state in sorted( self.store.items() ):
             line = [ fprint ]  + map(int, state.values() )
             self.fp.write( util.join(line) )
@@ -141,8 +141,8 @@ class TransGraph(object):
 def get_async_STG_all_states(model_async,node_threshold=0):
     '''
     Given an asyncronous model the function initiates all 2**N initial states, where N is the number of nodes, and performs an update of each node then reinitializes to the previous state,
-    adding each transition edge to a state transition graph (STG).It also generates a fingerprint dictionary (fp_state_dict) which associates detailed states with integer id-s that are used as 
-    node id-s in the STG. 
+    adding each transition edge to a state transition graph (STG).It also generates a fingerprint dictionary (fp_state_dict) which associates detailed states with integer id-s that are used as
+    node id-s in the STG.
     WARNING! Due to the exponential growth of the state space, with the size of the network, this can be extremely demanding for larger networks
     One can also specify a node threshold, where the function perfoms a filtering based on the number of times a state was visited.
 
@@ -150,7 +150,7 @@ def get_async_STG_all_states(model_async,node_threshold=0):
         node_threshold - int (default=0)
 
     Returns: g - networx multigraph object
-         edge_occurances - dict 
+         edge_occurances - dict
          state_occurances - dict
          fp_state_dict - dict
     '''
@@ -199,21 +199,21 @@ def controlled_async_pick(lines, node):
     raise ValueError('Node not in model!')
 
 def STG_backbone_based_on_proxy_nodes(G, PNs, cutoff=16):
-    
+
     '''
-    Given a state transition graph and a set of proxy nodes from the graph the algorithm determines the collapsed 
+    Given a state transition graph and a set of proxy nodes from the graph the algorithm determines the collapsed
     path probabilities, by summing up the probabilities of paths between all pairs of proxy nodes, such that no
     no other proxy node is included in the path.
-    
+
     Inputs: G - networkx DiGraph
             PNs - list of proxy nodes (from G)
             cutoff - the meximum length of paths
-            
+
     Output: G_BB - a networkx representation of the "backbone", where the nodes are the proxies and the edges the
             potential transitions between them
             G_BB_edge_weights - the proabaility of transitions between proxy nodes
     '''
-    
+
     edge_weights = {}
     for e in G.edges():
         edge_weights[e]=1./G.out_degree(e[0])
@@ -234,7 +234,7 @@ def STG_backbone_based_on_proxy_nodes(G, PNs, cutoff=16):
                 edges_on_the_path=zip(path[:-1],path[1:])
                 path_probability=np.prod([edge_weights[e] for e in edges_on_the_path])
                 meta_edge_probability+=path_probability
-        
+
         if meta_edge_probability!=0:
             G_BB_edge_weights[(source_PN, target_PN)]=meta_edge_probability
 
@@ -246,13 +246,13 @@ def STG_backbone_based_on_proxy_nodes(G, PNs, cutoff=16):
 
 
 def read_and_create_extended_network(network_file, relabel=True):
-    
+
     '''
     docstring
     '''
 
     with  open(network_file,'r') as f:
-	node_list=[]
+        node_list=[]
         lines = f.readlines()
         for i in lines:
             if '*=' in i:
@@ -261,9 +261,9 @@ def read_and_create_extended_network(network_file, relabel=True):
     Gread, readnodes = BDOIp.form_network(lines, sorted_nodename = False)
 
     G_expanded = BDOIp.Get_expanded_network(Gread)
-    
+
     if relabel:
-    
+
         base_mapping={}
         for i in range(len(node_list)):
             base_mapping['n%dn'%i]=node_list[i]
@@ -317,13 +317,13 @@ def are_subsets_consistent(a,b):
 def expanded_network_consistent_simple_cycles(G):
     """Find consistent simple cycles (elementary circuits) of an expanded network.
 
-    
+
     An simple cycle, or elementary circuit, is a closed path where no
     node appears twice, except that the first and last node are the same.
     Two elementary circuits are distinct if they are not cyclic permutations
     of each other.
     A consistent cycle is one that doesn't contain any contradicting virtual or composite nodes
-    
+
 
     This is a nonrecursive, iterator/generator version of Johnson's
     algorithm [1]_.  There may be better algorithms for some cases [2]_ [3]_.
@@ -331,7 +331,7 @@ def expanded_network_consistent_simple_cycles(G):
     Parameters
     ----------
     G : NetworkX DiGraph
-       A directed graph 
+       A directed graph
 
     Returns
     -------

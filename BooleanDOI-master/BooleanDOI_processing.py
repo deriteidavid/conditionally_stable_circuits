@@ -72,8 +72,8 @@ def write_Boolean_rules(Ginput,filename):
   f=open(filename,'a')
   f.write('#BOOLEAN RULES\n')
   for node in G.nodes():
-    ON_list=[x for x in G.node[node]['update_rules'].keys() if G.node[node]['update_rules'][x]==1]
-    rule=Getfunc(G.node[node]['update_nodes'],node,ON_list)
+    ON_list=[x for x in g.nodes[node]['update_rules'].keys() if g.nodes[node]['update_rules'][x]==1]
+    rule=Getfunc(g.nodes[node]['update_nodes'],node,ON_list)
     f.write(rule)
   f.close()
   return
@@ -114,10 +114,10 @@ def Get_expanded_network(Gread,prefix='n',suffix='n',equal_sign='*='):
   negation_rules=[]
   expanded_nodes=set()
   for node in Gread.nodes():
-      ON_list=[x for x in Gread.node[node]['update_rules'].keys() if Gread.node[node]['update_rules'][x]==1]
-      rule=Getfunc(Gread.node[node]['update_nodes'],node,ON_list,prefix=prefix,suffix=suffix,equal_sign=equal_sign)
-      OFF_list=[x for x in Gread.node[node]['update_rules'].keys() if Gread.node[node]['update_rules'][x]==0]
-      negation_rule='~'+Getfunc(Gread.node[node]['update_nodes'],node,OFF_list,prefix=prefix,suffix=suffix,equal_sign=equal_sign)
+      ON_list=[x for x in Gread.nodes[node]['update_rules'].keys() if Gread.nodes[node]['update_rules'][x]==1]
+      rule=Getfunc(Gread.nodes[node]['update_nodes'],node,ON_list,prefix=prefix,suffix=suffix,equal_sign=equal_sign)
+      OFF_list=[x for x in Gread.nodes[node]['update_rules'].keys() if Gread.nodes[node]['update_rules'][x]==0]
+      negation_rule='~'+Getfunc(Gread.nodes[node]['update_nodes'],node,OFF_list,prefix=prefix,suffix=suffix,equal_sign=equal_sign)
       rules.append(rule)
       negation_rules.append(negation_rule)
       expanded_nodes.add(rule.split('*=')[0])
@@ -137,7 +137,7 @@ def Get_expanded_network(Gread,prefix='n',suffix='n',equal_sign='*='):
         normal_child=child[:]
       normal_child=normal_child[len(prefix):len(normal_child)-len(suffix)]
       #deal with source node situation
-      if not Gread.node[int(normal_child)]['update_nodes']:
+      if not Gread.nodes[int(normal_child)]['update_nodes']:
         G_expand.add_node(child)     #maybe this do not need to be done
       else:
         if 'or' in update_rule:
@@ -181,8 +181,8 @@ def Get_reduced_network(Gread):
   queue=deque()
   #collecting all the source nodes
   for node in Gread.nodes():
-    if not Gread.node[node]['update_nodes']:
-      source_node_value_list=[int(x) for x in set(Gread.node[node]['update_rules'].values())]
+    if not Gread.nodes[node]['update_nodes']:
+      source_node_value_list=[int(x) for x in set(Gread.nodes[node]['update_rules'].values())]
       assert len(source_node_value_list)==1
       source_node_value=source_node_value_list[0]
       queue.append((node,source_node_value))
@@ -195,17 +195,17 @@ def Get_reduced_network(Gread):
       fixed.add(vertex)
       untested_successors=[x for x in set(G_reduced.successors(vertex[0]))-set([y[0] for y in fixed])-set([z[0] for z in queue])]
       for node in untested_successors:
-        fixed_input_index=G_reduced.node[node]['update_nodes'].index(vertex[0])
+        fixed_input_index=G_reduced.nodes[node]['update_nodes'].index(vertex[0])
         reduced_updated_rules={}
-        for key,value in G_reduced.node[node]['update_rules'].iteritems():
+        for key,value in G_reduced.nodes[node]['update_rules'].iteritems():
           if key[fixed_input_index]==str(vertex[1]):
-            if fixed_input_index<len(G_reduced.node[node]['update_nodes'])-1:
+            if fixed_input_index<len(G_reduced.nodes[node]['update_nodes'])-1:
               new_key=key[:fixed_input_index]+key[fixed_input_index+1:]
             else:
               new_key=key[:fixed_input_index]
             reduced_updated_rules[new_key]=value
-        G_reduced.node[node]['update_rules']=reduced_updated_rules
-        G_reduced.node[node]['update_nodes'].remove(vertex[0])
+        G_reduced.nodes[node]['update_rules']=reduced_updated_rules
+        G_reduced.nodes[node]['update_nodes'].remove(vertex[0])
         if len(set(reduced_updated_rules.values()))==1:
           reduced_value=reduced_updated_rules.values()[0]
           queue.append((node,reduced_value))
@@ -317,7 +317,7 @@ def form_network(rules,sorted_nodename=True):
     g.graph['knockout'] = None                                                  # At creation, no node is flagged for knockout or overexpression
     g.graph['express'] = None
 
-    for n in xrange(len(stream)):
+    for n in range(len(stream)):
         node = stream[n].split('*=')[0]
         rule = stream[n].split('*=')[1]
         rule = rule.replace(' AND ',' and ')                                    # Force decap of logical operators so as to work with eval()
@@ -325,8 +325,8 @@ def form_network(rules,sorted_nodename=True):
         rule = rule.replace(' NOT ',' not ')
         if stream[n].find('True') >= 0 or stream[n].find('False') >= 0:         # For always ON or always OFF nodes
             g.add_node(nodes.index(node))                                                       # We refer to nodes by their location in a sorted list of the user-provided node names
-            g.node[nodes.index(node)]['update_nodes'] = []
-            g.node[nodes.index(node)]['update_rules'] = {'':str(int(eval(rule)))}
+            g.nodes[nodes.index(node)]['update_nodes'] = []
+            g.nodes[nodes.index(node)]['update_rules'] = {'':str(int(eval(rule)))}
             continue
 
         inf = rule.split(' ')                                                   # Strip down to just a list of influencing nodes
@@ -338,8 +338,8 @@ def form_network(rules,sorted_nodename=True):
 
         #mod
         for i in inf: g.add_edge(nodes.index(i),nodes.index(node))                              # Add edges from all influencing nodes to target node
-        g.node[nodes.index(node)]['update_nodes'] = [nodes.index(i) for i in inf]     #mod
-        g.node[nodes.index(node)]['update_rules'] = {}      #mod
+        g.nodes[nodes.index(node)]['update_nodes'] = [nodes.index(i) for i in inf]     #mod
+        g.nodes[nodes.index(node)]['update_rules'] = {}      #mod
 
         bool_states = map(bin,range(2**len(inf)))
         bool_states = map(clean_states,bool_states)
@@ -347,9 +347,9 @@ def form_network(rules,sorted_nodename=True):
             rule_mod = rule[:]
             for k in range(len(j)):
                 if j[k]=='0':
-                    rule_mod=rule_mod.replace(nodes[g.node[nodes.index(node)]['update_nodes'][k]],'False')      # Modify the rule to have every combination of True, False for input nodes
-                else: rule_mod=rule_mod.replace(nodes[g.node[nodes.index(node)]['update_nodes'][k]],'True')
-            g.node[nodes.index(node)]['update_rules'][j] = int(eval(rule_mod))                                  # Store outcome for every possible input
+                    rule_mod=rule_mod.replace(nodes[g.nodes[nodes.index(node)]['update_nodes'][k]],'False')      # Modify the rule to have every combination of True, False for input nodes
+                else: rule_mod=rule_mod.replace(nodes[g.nodes[nodes.index(node)]['update_nodes'][k]],'True')
+            g.nodes[nodes.index(node)]['update_rules'][j] = int(eval(rule_mod))                                  # Store outcome for every possible input
             #mod
     return g,nodes
 
